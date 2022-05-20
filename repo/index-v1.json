@@ -1,0 +1,2693 @@
+{
+  "repo": {
+    "timestamp": 1651517857000,
+    "version": 20000,
+    "name": "CalyxOS Local Repository",
+    "icon": "fdroid-icon.png",
+    "address": "file:///product/fdroid/repo/",
+    "description": "\nThis is a repository of apps to be used with CalyxOS. It is installed\nto the system partition, and meant to be used to initially install\napps when offline. It contains a limited number of applications deemed\nsuitable for inclusion with CalyxOS.\n"
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "antiFeatures": [
+        "NonFreeNet"
+      ],
+      "authorEmail": "whyorean@gmail.com",
+      "authorName": "Rahul Kumar Patel",
+      "categories": [
+        "System",
+        "Default"
+      ],
+      "changelog": "https://gitlab.com/AuroraOSS/AuroraStore/blob/HEAD/CHANGELOG",
+      "suggestedVersionCode": "41",
+      "description": "This ''Aurora Store'' is a complete rewrite, replacing https://f-droid.org/packages/com.dragons.aurora.\n\nAurora Store is an alternate to Google's Play Store, with an elegant design,\nusing Aurora you can download apps, update existing apps, search for apps,\nget details about in-app trackers, spoof your location and much more.",
+      "donate": "https://www.paypal.me/whyorean",
+      "issueTracker": "https://gitlab.com/AuroraOSS/AuroraStore/issues",
+      "license": "GPL-3.0-or-later",
+      "sourceCode": "https://gitlab.com/AuroraOSS/AuroraStore",
+      "translation": "https://poeditor.com/join/project/54swaCpFXJ",
+      "webSite": "http://auroraoss.com",
+      "added": 1651517796000,
+      "packageName": "com.aurora.store",
+      "lastUpdated": 1651517796000,
+      "localized": {
+        "de": {
+          "summary": "Ein Google Playstore-Client"
+        },
+        "el": {
+          "summary": "\u0388\u03bd\u03b1 \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1-\u03c0\u03b5\u03bb\u03ac\u03c4\u03b7\u03c2 \u03c4\u03bf\u03c5 Google Playstore"
+        },
+        "en-US": {
+          "icon": "icon.png",
+          "name": "Aurora Store",
+          "summary": "A Google Playstore Client"
+        },
+        "eo": {
+          "summary": "Alternativo por la vendejo Google Play"
+        },
+        "es": {
+          "summary": "Un cliente para Google Playstore"
+        },
+        "fr": {
+          "summary": "Un client pour Google Play Store"
+        },
+        "he": {
+          "summary": "\u05dc\u05e7\u05d5\u05d7 \u05dc\u05d7\u05e0\u05d5\u05ea Play \u05de\u05d1\u05d9\u05ea Google"
+        },
+        "is": {
+          "summary": "Bi\u00f0laraforrit fyrir Google Playstore"
+        },
+        "it": {
+          "summary": "Un client per il Google Playstore"
+        },
+        "nb": {
+          "summary": "Klient for Google Play-butikken"
+        },
+        "nn": {
+          "summary": "Klient for Google Play-butikken"
+        },
+        "pl": {
+          "summary": "Klient Google Play Store"
+        },
+        "pt": {
+          "summary": "Um cliente Google Playstore"
+        },
+        "pt-BR": {
+          "summary": "Um cliente para Google Playstore"
+        },
+        "pt-PT": {
+          "summary": "Um cliente Google Playstore"
+        },
+        "ro": {
+          "summary": "Un client Google Playstore"
+        },
+        "ru": {
+          "summary": "\u041a\u043b\u0438\u0435\u043d\u0442 Google Playstore"
+        },
+        "sc": {
+          "summary": "Un'aplicatzione cliente pro su Google Playstore"
+        },
+        "sq": {
+          "summary": "Nj\u00eb Klient Google Playstore"
+        },
+        "tr": {
+          "summary": "Bir Google Playstore \u0130stemcisi"
+        },
+        "uk": {
+          "summary": "\u041a\u043b\u0456\u0454\u043d\u0442 Google Playstore"
+        },
+        "zh-CN": {
+          "summary": "\u4e00\u4e2a Google Play \u5546\u5e97\u5ba2\u6237\u7aef"
+        }
+      }
+    },
+    {
+      "binaries": "https://briarproject.org/apk/briar-%v.apk",
+      "bitcoin": "1NZCKkUCtJV2U2Y9hDb9uq8S7ksFCFGR6K",
+      "categories": [
+        "Connectivity",
+        "Internet",
+        "Security",
+        "Default"
+      ],
+      "changelog": "https://code.briarproject.org/briar/briar/wikis/changelog",
+      "suggestedVersionCode": "10406",
+      "description": "Briar is a messaging app designed for activists, journalists, and anyone else\nwho needs a safe, easy and robust way to communicate. Unlike traditional\nmessaging tools such as email, Twitter or Telegram, Briar doesn't rely on a\ncentral server - messages are synchronized directly between the users' devices.\nIf the Internet's down, Briar can sync via Bluetooth or Wi-Fi, keeping the\ninformation flowing in a crisis. If the Internet's up, Briar can sync via the\nTor network, protecting users and their relationships from surveillance.",
+      "flattrID": "592836",
+      "issueTracker": "https://code.briarproject.org/briar/briar/issues",
+      "liberapayID": "34745",
+      "license": "GPL-3.0-or-later",
+      "sourceCode": "https://code.briarproject.org/briar/briar",
+      "translation": "https://www.transifex.com/otf/briar/",
+      "webSite": "https://briarproject.org/",
+      "added": 1651517798000,
+      "packageName": "org.briarproject.briar.android",
+      "lastUpdated": 1651517798000,
+      "localized": {
+        "de": {
+          "summary": "Soziales Netzwerk im Darknet"
+        },
+        "en-US": {
+          "icon": "icon.png",
+          "name": "Briar",
+          "summary": "Secure Messaging, Anywhere"
+        },
+        "eo": {
+          "summary": "Sekura babilado \u0109ie ajn"
+        },
+        "es": {
+          "summary": "Mensajer\u00eda segura en cualquier lugar"
+        },
+        "fi": {
+          "summary": "Turvallista viestint\u00e4\u00e4, miss\u00e4 tahansa"
+        },
+        "fr": {
+          "summary": "Messagerie s\u00e9curis\u00e9e, n'importe o\u00f9"
+        },
+        "he": {
+          "summary": "\u05d4\u05d5\u05d3\u05e2\u05d5\u05ea \u05de\u05d0\u05d5\u05d1\u05d8\u05d7\u05d5\u05ea, \u05d1\u05db\u05dc \u05de\u05e7\u05d5\u05dd"
+        },
+        "it": {
+          "summary": "Messaggistica sicura, ovunque"
+        },
+        "nb": {
+          "summary": "Sosialt kommunikasjon p\u00e5 det sosiale m\u00f8rke nettet"
+        },
+        "pl": {
+          "summary": "Sie\u0107 Spo\u0142eczno\u015bciowa Darknet"
+        },
+        "pt": {
+          "summary": "Rede Social Darknet"
+        },
+        "pt-BR": {
+          "summary": "Rede social na darknet"
+        },
+        "pt-PT": {
+          "summary": "Rede Social Darknet"
+        },
+        "ro": {
+          "summary": "Mesagerie securizat\u0103, oriunde"
+        },
+        "ru": {
+          "summary": "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u0439 \u043e\u0431\u043c\u0435\u043d \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f\u043c\u0438 \u0432 \u043b\u044e\u0431\u043e\u043c \u043c\u0435\u0441\u0442\u0435"
+        },
+        "sq": {
+          "summary": "Shk\u00ebmbim i Sigurt Mesazhesh, Kudo"
+        },
+        "tr": {
+          "summary": "Her yerde G\u00fcvenli \u0130leti"
+        },
+        "uk": {
+          "summary": "\u0411\u0435\u0437\u043f\u0435\u0447\u043d\u0438\u0439 \u043e\u0431\u043c\u0456\u043d \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u043d\u044f\u043c\u0438 \u0432 \u0431\u0443\u0434\u044c-\u044f\u043a\u043e\u043c\u0443 \u043c\u0456\u0441\u0446\u0456"
+        },
+        "zh-CN": {
+          "summary": "\u6697\u7f51\u793e\u4ea4\u7f51\u7edc"
+        }
+      }
+    },
+    {
+      "bitcoin": "14wntQ8cBdnhUVfYmDjXz6PbpSSX8nCtkr",
+      "categories": [
+        "Internet",
+        "Security",
+        "Default"
+      ],
+      "changelog": "https://gitlab.com/calyxos/bitmask_android/blob/HEAD/CHANGELOG",
+      "suggestedVersionCode": "160000",
+      "description": "CalyxVPN is an application to provide easy and secure encrypted communication.\nThe app is a custom branded build of https://f-droid.org/packages/se.leap.bitmaskclient. This version is\npreconfigured with one trusted provider\u2014The Calyx Institute\u2014and allows\nanonymous VPN usage without any manual setup.\n\nBy encrypting and securely routing all your network traffic through Calyx's\nservers, CalyxVPN is able to prevent many forms of censorship and surveillance.",
+      "donate": "https://calyxinstitute.org/",
+      "issueTracker": "https://gitlab.com/calyxos/bitmask_android/issues",
+      "license": "GPL-3.0-only",
+      "sourceCode": "https://gitlab.com/calyxos/bitmask_android",
+      "translation": "https://www.transifex.com/otf/bitmask-android/",
+      "webSite": "https://calyx.net",
+      "added": 1651517803000,
+      "icon": "org.calyxinstitute.vpn.160000.png",
+      "packageName": "org.calyxinstitute.vpn",
+      "lastUpdated": 1651517803000,
+      "localized": {
+        "de": {
+          "summary": "Kostenloser VPN-Dienst von The Calyx Institute"
+        },
+        "en-US": {
+          "icon": "icon.png",
+          "name": "Calyx VPN",
+          "summary": "Free VPN Service offered by The Calyx Institute"
+        },
+        "eo": {
+          "summary": "Senpaga VPN-servo liverata de The Calyx Institute"
+        },
+        "es": {
+          "summary": "Servicio VPN gratuito oferecido por The Calyx Institute"
+        },
+        "fr": {
+          "summary": "Service de RPV gratuit offert par \u00ab\u00a0The Calyx Institute\u00a0\u00bb"
+        },
+        "he": {
+          "summary": "\u05e9\u05d9\u05e8\u05d5\u05ea VPN \u05d7\u05d9\u05e0\u05de\u05d9 \u05e9\u05de\u05d5\u05e6\u05e2 \u05e2\u05dc \u05d9\u05d3\u05d9 \u05de\u05db\u05d5\u05df Calyx (\u05e7\u05dc\u05d9\u05e7\u05e1)"
+        },
+        "it": {
+          "summary": "Servizio VPN gratuito offerto da The Calyx Institute"
+        },
+        "nb": {
+          "summary": "Gratis VPN-tjeneste fra Calyx-instituttet"
+        },
+        "pl": {
+          "summary": "Bezp\u0142atna us\u0142uga VPN oferowana przez Instytut Calyx"
+        },
+        "pt": {
+          "summary": "Servi\u00e7o VPN gratuito oferecido pelo The Calyx Institute"
+        },
+        "pt-BR": {
+          "summary": "Servi\u00e7o de VPN gratuito oferecido por The Calyx Institute"
+        },
+        "pt-PT": {
+          "summary": "Servi\u00e7o VPN gratuito oferecido pelo The Calyx Institute"
+        },
+        "ro": {
+          "summary": "Serviciu VPN gratuit oferit de Institutul Calyx"
+        },
+        "ru": {
+          "summary": "\u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 VPN-\u0441\u0435\u0440\u0432\u0438\u0441, \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u043c\u044b\u0439 \u0418\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u043e\u043c \u041a\u0430\u043b\u0438\u043a\u0441"
+        },
+        "tr": {
+          "summary": "The Calyx Enstit\u00fcs\u00fc taraf\u0131ndan sunulan \u00fccretsiz VPN Hizmeti"
+        },
+        "uk": {
+          "summary": "\u0411\u0435\u0437\u043f\u043b\u0430\u0442\u043d\u0430 \u0441\u043b\u0443\u0436\u0431\u0430 VPN, \u0437\u0430\u043f\u0440\u043e\u043f\u043e\u043d\u043e\u0432\u0430\u043d\u0430 The Calyx Institute"
+        },
+        "zh-CN": {
+          "summary": "\u7531 The Calyx Institute \u63d0\u4f9b\u7684\u514d\u8d39 VPN \u670d\u52a1"
+        }
+      }
+    },
+    {
+      "authorName": "bitfire web engineering",
+      "bitcoin": "bc1q0hvy0mknt9vce2f9hh829h72n3sht9llaltumk",
+      "categories": [
+        "Internet",
+        "Default"
+      ],
+      "changelog": "https://forums.bitfire.at/category/4/davx?tag=announcement",
+      "suggestedVersionCode": "402000009",
+      "donate": "https://www.davx5.com/donate",
+      "issueTracker": "https://www.davx5.com/forums",
+      "liberapayID": "14101",
+      "license": "GPL-3.0-only",
+      "sourceCode": "https://www.davx5.com/source",
+      "translation": "https://www.transifex.com/bitfireAT/davx5/",
+      "webSite": "https://www.davx5.com/",
+      "added": 1651517806000,
+      "packageName": "at.bitfire.davdroid",
+      "lastUpdated": 1651517806000,
+      "localized": {
+        "ar": {
+          "description": "DAVx\u2075 \u0647\u0648 \u062a\u0637\u0628\u064a\u0642 \u0625\u062f\u0627\u0631\u0629 \u0648\u0645\u0632\u0627\u0645\u0646\u0629 \u0644\u0622\u0646\u062f\u0631\u0648\u064a\u062f \u064a\u062a\u0643\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0623\u0635\u064a\u0644\u0629 \u0644\u0644\u062a\u0642\u0648\u064a\u0645 \u0648\u062c\u0647\u0627\u062a \u0627\u0644\u0627\u062a\u0635\u0627\u0644 \u0641\u064a \u0646\u0638\u0627\u0645 \u0622\u0646\u062f\u0631\u0648\u064a\u062f.\n\n\u0627\u0633\u062a\u062e\u062f\u0645\u0647 \u0645\u0639 \u062e\u0627\u062f\u0645\u0643 \u0627\u0644\u062e\u0627\u0635 \u0623\u0648 \u0645\u0639 \u062c\u0647\u0629 \u0627\u0633\u062a\u0636\u0627\u0641\u0629 \u062a\u062b\u0642 \u0628\u0647\u0627 \u0644\u0625\u0628\u0642\u0627\u0621 \u062c\u0647\u0627\u062a \u0627\u062a\u0635\u0627\u0644\u0643 \u0648 \u0623\u062d\u062f\u0627\u062b\u0643 \u0648 \u0645\u0647\u0627\u0645\u0643 \u062a\u062d\u062a \u0633\u064a\u0637\u0631\u062a\u0643.\n\n\u0644\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0642\u0627\u0626\u0645\u0629 \u0628\u0627\u0644\u062e\u0627\u062f\u0645\u0627\u062a/\u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u0645\u062a \u062a\u062c\u0631\u0628\u062a\u0647\u0627 \u060c \u0648\u0644\u0644\u0645\u0632\u064a\u062f \u0645\u0646 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u060c \u0623\u0644\u0642 \u0646\u0638\u0631\u0629 \u0639\u0644\u0649 \u0645\u0648\u0642\u0639 \u0627\u0644\u0648\u064a\u0628.",
+          "summary": "\u0645\u0632\u0627\u0645\u0646\u0629 \u0648\u0639\u0645\u064a\u0644 \u0644\u0640 CalDAV/CardDAV"
+        },
+        "da": {
+          "description": "DAVx\u2075 er en CalDAV/CardDAV h\u00e5ndtering og synkronisering program til Android som naturlig integrere med  Android kalender/kontakt programmer.\n\nBrug den med lokal server eller med trov\u00e6rdig v\u00e6rt for at gemme kontakter, begivenheder og opgaver under egen kontrol.\n\nFor mere information og en liste over testede server/tjenester, g\u00e5 til netstedet.",
+          "summary": "CalDAV/CardDAV synkronisering og klient"
+        },
+        "de": {
+          "description": "DAVx\u2075 ist eine CalDAV/CardDAV-Verwaltungs- und Synchronisierungs-App f\u00fcr Android, die sich nahtlos mit Kalender- und Kontakte-Apps integriert.\n\nMit DAVx\u2075 haben Sie Ihre Kontakte, Termine und Aufgaben auf Ihrem eigenen Server oder einem vertrauensw\u00fcrdigen CalDAV/CardDAV-Dienst unter eigener Kontrolle!\n\nWeitere Informationen und eine Liste der getesteten Server/Dienste finden sich auf der Website.",
+          "summary": "CalDAV/CardDAV-Synchronisierung und -Client"
+        },
+        "el": {
+          "description": "\u03a4\u03bf DAVx\u2075 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03b9\u03b1 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03b4\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03b3\u03c7\u03c1\u03bf\u03bd\u03b9\u03c3\u03bc\u03bf\u03cd CalDAV/CardDAV \u03b3\u03b9\u03b1 \u03c4\u03bf Android \u03c0\u03bf\u03c5 \u03b5\u03bd\u03c3\u03c9\u03bc\u03b1\u03c4\u03ce\u03bd\u03b5\u03b9 \u03b5\u03b3\u03b3\u03b5\u03bd\u03ce\u03c2 \u03c4\u03b9\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ad\u03c2 Android \u03b7\u03bc\u03b5\u03c1\u03bf\u03bb\u03bf\u03b3\u03af\u03bf\u03c5/\u03b5\u03c0\u03b1\u03c6\u03ce\u03bd.\n\n\u03a7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03c4\u03b5 \u03c4\u03bf \u03c3\u03c4\u03bf\u03bd \u03b4\u03b9\u03ba\u03cc \u03c3\u03b1\u03c2 \u03b4\u03b9\u03b1\u03ba\u03bf\u03bc\u03b9\u03c3\u03c4\u03ae \u03ae \u03bc\u03b5 \u03ad\u03bd\u03b1\u03bd \u03ad\u03bc\u03c0\u03b9\u03c3\u03c4\u03bf \u03b4\u03b9\u03b1\u03ba\u03bf\u03bc\u03b9\u03c3\u03c4\u03ae \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b4\u03b9\u03b1\u03c4\u03ae\u03c1\u03b7\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b5\u03c0\u03b1\u03c6\u03ce\u03bd, \u03c4\u03c9\u03bd \u03c3\u03c5\u03bc\u03b2\u03ac\u03bd\u03c4\u03c9\u03bd \u03ba\u03b1\u03b9 \u03b5\u03c1\u03b3\u03b1\u03c3\u03b9\u03ce\u03bd \u03c5\u03c0\u03cc \u03c4\u03bf\u03bd \u03ad\u03bb\u03b5\u03b3\u03c7\u03cc \u03c3\u03b1\u03c2.\n\n\u0393\u03b9\u03b1 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03bb\u03af\u03c3\u03c4\u03b1 \u03c4\u03c9\u03bd \u03b4\u03bf\u03ba\u03b9\u03bc\u03b1\u03c3\u03bc\u03ad\u03bd\u03c9\u03bd \u03b4\u03b9\u03b1\u03ba\u03bf\u03bc\u03b9\u03c3\u03c4\u03ce\u03bd/\u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03b9\u03ce\u03bd, \u03b4\u03b5\u03af\u03c4\u03b5 \u03c3\u03c4\u03b7\u03bd \u03b9\u03c3\u03c4\u03bf\u03c3\u03b5\u03bb\u03af\u03b4\u03b1.",
+          "summary": "\u03a3\u03c5\u03b3\u03c7\u03c1\u03bf\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 CalDAV/CardDAV \u03ba\u03b1\u03b9 \u03c0\u03b5\u03bb\u03ac\u03c4\u03b7\u03c2"
+        },
+        "en-US": {
+          "description": "DAVx\u2075 is a CalDAV/CardDAV management and synchronization app for Android which natively integrates with Android calendar/contact apps.\n\nUse it with your own server or with a trusted hoster to keep your contacts, events and tasks under your control.\n\nFor more information and a list of tested servers/services, have a look at the Web site.\n",
+          "icon": "icon.png",
+          "name": "DAVx\u2075",
+          "summary": "CalDAV/CardDAV Synchronization and Client"
+        },
+        "es": {
+          "description": "DAVx\u2075 es una aplicaci\u00f3n de administraci\u00f3n y sincronizaci\u00f3n CalDAV/CardDAV para Android la cual se integra nativamente con la aplicaci\u00f3n de calendario/contactos de Android.\n\n\u00daselo con su su servidor o con un anfitri\u00f3n de confianza para mantener sus contactos, incluso sus tareas bajo su control.\n\nPara m\u00e1s informaci\u00f3n y una lista de servicios/servidores probados, revise el sitio web.",
+          "summary": "Cliente y Sincronizaci\u00f3n de CalDAV/CardDAV"
+        },
+        "fi": {
+          "description": "DAVx\u2075 on CalDAV/CardDAV- hallinta- ja synkronointisovellus Android-laitteille, jonka avulla kalenterit/yhteystiedot liitet\u00e4\u00e4n CalDAV/CardDAV-j\u00e4rjestelm\u00e4st\u00e4 Androidin omaan kalenterien ja yhteystietojen sovellukseen.\n\nK\u00e4yt\u00e4 sovellusta omalla palvelimellasi tai luotetun palveluntarjoajan kanssa pit\u00e4\u00e4ksesi yhteystietosi, tapahtumasi ja teht\u00e4v\u00e4si omassa hallinnassasi.\n\nSaadaksesi lis\u00e4tietoja sek\u00e4 listan testatuista palvelimista/palvelinohjelmista, k\u00e4y katsomassa Internet-sivustollamme.",
+          "summary": "CalDAV/CardDAV Synkronointi- ja asiakasohjelma"
+        },
+        "fr": {
+          "description": "DAVx\u2075 est une application de gestion et de synchronisation CalDAV / CardDAV pour Android qui s'int\u00e8gre de mani\u00e8re native aux applications de calendrier / contact Android.\n\nUtilisez-le avec votre propre serveur ou avec un h\u00e9bergeur de confiance pour garder vos contacts, \u00e9v\u00e9nements et t\u00e2ches sous votre contr\u00f4le.\n\nPour plus d'informations et une liste des serveurs / services test\u00e9s, consultez le site Web.",
+          "summary": "Synchronisation et client CalDAV / CardDAV"
+        },
+        "gl": {
+          "description": "DAVx\u2075 \u00e9 un xestor CalDAV/CardDAV e aplicaci\u00f3n de sincronizaci\u00f3n para Android que se integra de xeito nativo coas apps de contactos/calendario de Android.\n\nUtil\u00edceo co seu propio servidor ou con un de confianza para manter os seus contactos, eventos e tarefas baixo o seu control.\n\nPara m\u00e1is informaci\u00f3n e unha lista de servidores/servizos, bote unha ollada no sitio Web.",
+          "summary": "Sincronizaci\u00f3n CalDAV/CardDAV e Cliente"
+        },
+        "hu": {
+          "description": "DAVx\u2075 egy CalDAV/CardDAV kezel\u0151 \u00e9s szinkroniz\u00e1l\u00f3 Android alkalmaz\u00e1s, amely rendszerszinten integr\u00e1l\u00f3dik a napt\u00e1r- \u00e9s n\u00e9vjegy-alkalmaz\u00e1sokkal.\n\nHaszn\u00e1lhatja saj\u00e1t szerver\u00e9vel vagy megb\u00edzhat\u00f3nak tartott szolg\u00e1ltat\u00f3kkal, hogy a n\u00e9vjegyek, napt\u00e1rbejegyz\u00e9sek \u00e9s feladatok feletti kontrollja megmaradjon.\n\nTov\u00e1bbi inform\u00e1ci\u00f3kat, valamint a tesztelt szerverek/szolg\u00e1ltat\u00e1sok list\u00e1j\u00e1t a web-oldalunkon tal\u00e1lja.",
+          "summary": "CalDAV/CardDAV Szinkroniz\u00e1ci\u00f3 \u00e9s Kliens"
+        },
+        "ja": {
+          "description": "DAVx\u2075 \u306f\u3001Android \u306e\u30ab\u30ec\u30f3\u30c0\u30fc/\u9023\u7d61\u5148\u30a2\u30d7\u30ea\u3068\u30cd\u30a4\u30c6\u30a3\u30d6\u306b\u7d71\u5408\u3055\u308c\u305f Android \u7528 CalDAV/CardDAV \u7ba1\u7406\u304a\u3088\u3073\u540c\u671f\u30a2\u30d7\u30ea\u3067\u3059\u3002\n\n\u3042\u306a\u305f\u72ec\u81ea\u306e\u30b5\u30fc\u30d0\u30fc\u3084\u4fe1\u983c\u3067\u304d\u308b\u30db\u30b9\u30c8\u3068\u4e00\u7dd2\u306b\u4f7f\u7528\u3057\u3066\u3001\u9023\u7d61\u5148\u3001\u30a4\u30d9\u30f3\u30c8\u3001\u30bf\u30b9\u30af\u3092\u7ba1\u7406\u3057\u3066\u304f\u3060\u3055\u3044\u3002\n\n\u8a73\u7d30\u3068\u3001\u30c6\u30b9\u30c8\u6e08\u307f\u306e\u30b5\u30fc\u30d0\u30fc/\u30b5\u30fc\u30d3\u30b9\u306e\u4e00\u89a7\u306b\u3064\u3044\u3066\u306f\u3001Web \u30b5\u30a4\u30c8\u3092\u53c2\u7167\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+          "summary": "CalDAV/CardDAV \u540c\u671f\u3068\u30af\u30e9\u30a4\u30a2\u30f3\u30c8"
+        },
+        "pt-rBR": {
+          "description": "DAVx\u2075 \u00e9 um aplicativo de gerenciamento e sincroniza\u00e7\u00e3o CalDAV/CardDAV para Android que se integra nativamente com aplicativos de calend\u00e1rio/contatos do Android.\n\nUse-o com seu pr\u00f3prio servidor ou com um host confi\u00e1vel para manter seus contatos, eventos e tarefas sob seu controle.\n\nPara mais informa\u00e7\u00f5es e uma lista de servidores/servi\u00e7os testados, d\u00ea uma olhada no site.",
+          "summary": "Sincroniza\u00e7\u00e3o e Cliente CalDAV/CardDAV"
+        },
+        "ru": {
+          "description": "DAVx\u2075 - \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0438 \u0441\u0438\u043d\u0445\u0440\u043e\u043d\u0438\u0437\u0430\u0446\u0438\u0438 CalDAV/CardDAV \u0434\u043b\u044f Android, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e \u0438\u043d\u0442\u0435\u0433\u0440\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0441 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f\u043c\u0438 Android \u0434\u043b\u044f \u0440\u0430\u0431\u043e\u0442\u044b \u0441 \u043a\u0430\u043b\u0435\u043d\u0434\u0430\u0440\u0435\u043c \u0438 \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0430\u043c\u0438.\n\n\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u0435\u0433\u043e \u0441 \u0432\u0430\u0448\u0438\u043c \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c \u0441\u0435\u0440\u0432\u0435\u0440\u043e\u043c \u0438\u043b\u0438 \u0434\u043e\u0432\u0435\u0440\u0435\u043d\u043d\u044b\u043c \u0445\u043e\u0441\u0442\u0435\u0440\u043e\u043c, \u0447\u0442\u043e\u0431\u044b \u0434\u0435\u0440\u0436\u0430\u0442\u044c \u0432\u0430\u0448\u0438 \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u044b, \u0441\u043e\u0431\u044b\u0442\u0438\u044f \u0438 \u0437\u0430\u0434\u0430\u0447\u0438 \u043f\u043e\u0434 \u0432\u0430\u0448\u0438\u043c \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0435\u043c.\n\n\u0414\u043b\u044f \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u044f \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0438 \u0441\u043f\u0438\u0441\u043a\u0430 \u043f\u0440\u043e\u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0441\u0435\u0440\u0432\u0435\u0440\u043e\u0432/\u0441\u043b\u0443\u0436\u0431, \u043f\u043e\u0441\u0435\u0442\u0438\u0442\u0435 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442.",
+          "summary": "\u0421\u0438\u043d\u0445\u0440\u043e\u043d\u0438\u0437\u0430\u0446\u0438\u044f CalDAV/CardDAV \u0438 \u043a\u043b\u0438\u0435\u043d\u0442"
+        },
+        "sk": {
+          "description": "DAVx\u2075 je aplik\u00e1cia na spr\u00e1vu a synchroniz\u00e1ciu CalDAV/CardDAV pre Android  ktor\u00e1 sa nat\u00edvne integruje s Android aplik\u00e1ciami kalend\u00e1r/kontakt.\n\nPou\u017e\u00edvajte s va\u0161im vlastn\u00fdm serverom alebo s poskytovate\u013eom server-hostingu ktor\u00e9mu d\u00f4verujete a majte svoje kontakty, udalosti a \u00falohy pod kontrolou.\n\n\u010eal\u0161ie inform\u00e1cie a zoznam testovan\u00fdch serverov/slu\u017eieb n\u00e1jdete na webovom s\u00eddle.",
+          "summary": "CalDAV/CardDAV synchroniz\u00e1cia a klient"
+        },
+        "sl-rSI": {
+          "description": "DAVx\u2075 je CalDAV/CardDAV android aplikacija za urejanje in sinhronizacijo z koledarja/kontaktov.\n\nUporabite jo z va\u0161im lastnim stre\u017enikom ali drugimi ponudniki stre\u017enikov, ki jim zaupate, in imejte tako va\u0161e kontakte, dogodke in naloge pod svojim nadzorom.\n\nVe\u010d informacij ter seznam serverjev/storitev lahko dobite na spletni strani",
+          "summary": "CalDAV/CardDAV sinhronizacija in klient"
+        },
+        "uk": {
+          "description": "DAVx\u2075 \u0446\u0435 Android \u0434\u043e\u0434\u0430\u0442\u043e\u043a \u0434\u043b\u044f \u043a\u0435\u0440\u0443\u0432\u0430\u043d\u043d\u044f \u0442\u0430 \u0441\u0438\u043d\u0445\u0440\u043e\u043d\u0456\u0437\u0430\u0446\u0456\u0457 CalDAV/CardDAV, \u044f\u043a\u0438\u0439 \u043e\u0440\u0433\u0430\u043d\u0456\u0447\u043d\u043e \u0456\u043d\u0442\u0435\u0433\u0440\u0443\u0454\u0442\u044c\u0441\u044f \u0437 Android \u043a\u0430\u043b\u0435\u043d\u0434\u0430\u0440\u0435\u043c/\u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0430\u043c\u0438.\n\n\u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0439\u0442\u0435 \u0439\u043e\u0433\u043e \u0437 \u0432\u043b\u0430\u0441\u043d\u0438\u043c \u0441\u0435\u0440\u0432\u0435\u0440\u043e\u043c \u0430\u0431\u043e \u0437 \u0434\u043e\u0432\u0456\u0440\u0435\u043d\u0438\u043c \u043f\u043e\u0441\u0442\u0430\u0447\u0430\u043b\u044c\u043d\u0438\u043a\u043e\u043c, \u0430\u0431\u0438 \u0437\u0431\u0435\u0440\u0435\u0433\u0442\u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043d\u0430\u0434  \u0432\u0430\u0448\u0438\u043c\u0438 \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0430\u043c\u0438, \u043f\u043e\u0434\u0456\u044f\u043c\u0438 \u0442\u0430 \u0437\u0430\u0434\u0430\u0447\u0430\u043c\u0438.\n\n\u0414\u043b\u044f \u0431\u0456\u043b\u044c\u0448 \u0434\u0435\u0442\u0430\u043b\u044c\u043d\u043e\u0457 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457 \u0442\u0430 \u0441\u043f\u0438\u0441\u043a\u0443 \u043f\u0435\u0440\u0435\u0432\u0456\u0440\u0435\u043d\u0438\u0445 \u0441\u0435\u0440\u0432\u0435\u0440\u0456\u0432/\u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432 \u0434\u0438\u0432\u0456\u0442\u044c\u0441\u044f \u043d\u0430\u0448\u0443 Web \u0441\u0442\u043e\u0440\u0456\u043d\u043a\u0443.",
+          "summary": "\u041a\u043b\u0456\u0454\u043d\u0442 \u0441\u0438\u043d\u0445\u0440\u043e\u043d\u0456\u0437\u0430\u0446\u0456\u0457 CalDAV/CardDAV"
+        },
+        "zh-rCN": {
+          "description": "DAVx\u2075 \u662f\u4e00\u6b3e Android \u7684 CalDAV/CardDAV \u7ba1\u7406\u540c\u6b65\u5e94\u7528\uff0c\u4e0e Android \u7684\u65e5\u5386\u3001\u901a\u8baf\u5f55\u8f6f\u4ef6\u539f\u751f\u96c6\u6210\u3002\n\n\u901a\u8fc7\u8be5\u5e94\u7528\uff0c\u53ef\u5728\u81ea\u5df1\u7684\u670d\u52a1\u5668\u6216\u4fe1\u4efb\u7684\u6258\u7ba1\u5546\u4e0a\u4fdd\u5b58\u901a\u8baf\u5f55\u3001\u65f6\u95f4\u548c\u4efb\u52a1\u6570\u636e\uff0c\u4fdd\u8bc1\u53ef\u63a7\u3002\n\n\u8bf7\u6d4f\u89c8\u7f51\u7ad9\uff0c\u4e86\u89e3\u66f4\u591a\u4fe1\u606f\uff0c\u5305\u62ec\u6d4b\u8bd5\u901a\u8fc7\u7684\u670d\u52a1\u5668\u3001\u7f51\u7ad9\u5217\u8868\u3002",
+          "summary": "CalDAV/CardDAV \u540c\u6b65\u5ba2\u6237\u7aef"
+        }
+      }
+    },
+    {
+      "antiFeatures": [
+        "NonFreeNet"
+      ],
+      "authorEmail": "android@duckduckgo.com",
+      "authorName": "DuckDuckGo",
+      "authorWebSite": "https://duckduckgo.com/",
+      "categories": [
+        "Internet",
+        "Default"
+      ],
+      "changelog": "https://github.com/duckduckgo/Android/releases",
+      "suggestedVersionCode": "51210000",
+      "description": "At DuckDuckGo, we believe the Internet shouldn\u2019t feel so creepy, and getting the\nprivacy you deserve online should be as simple as closing the blinds.\n\nOur app provides the privacy essentials you need to seamlessly take control of\nyour personal information as you search and browse the web, no matter where the\nInternet takes you:\n\n* Escape Advertising Tracker Networks \u2014 Our Privacy Protection will block all the hidden third-party trackers we can find, exposing the major advertising networks tracking you over time, so that you can track who\u2019s trying to track you.\n* Increase Encryption Protection \u2014 We force sites to use an encrypted connection where available, protecting your data from prying eyes, like ISPs.\n* Search Privately \u2014 You share your most personal information with your search engine, like your financial, medical, and political questions. What you search for is your own business, which is why DuckDuckGo search doesn\u2019t track you. Ever.\n* Decode Privacy Policies \u2014 We\u2019ve partnered with Terms of Service Didn\u2019t Read to include their scores and labels of website terms of service and privacy policies, where available.\n\nAs you search and browse, the DuckDuckGo Privacy Browser shows you a Privacy\nGrade rating when you visit a website (A-F). This rating lets you see how\nprotected you are at a glance, dig into the details to see who we caught trying\nto track you, and learn how we enhanced the underlying site\u2019s privacy measures.\nThe Privacy Grade is scored automatically based on the prevalence of hidden\ntracker networks, encryption availability, and website privacy practices.\n\nOur app provides standard browsing functionality including tabs, bookmarks, and\nautocomplete. In addition to strong Privacy Protection as described above, we\nalso packed in some extra privacy features into the browser itself:\n\n* Fire Button \u2014 Clear all your tabs and data with one tap.\n* Application Lock \u2014 Secure the app with Touch ID or Face ID.\n\nToo many people believe you simply can\u2019t expect privacy on the Internet. We\u2019re\nfighting to change that, and have made it our mission to set a new standard of\ntrust online. Install DuckDuckGo and take back your privacy!\n\nAntifeatures:\n* NonFreeNet - Uses DuckDuckGo as the exclusive search engine, for which the\nsource code is not available.",
+      "issueTracker": "https://github.com/duckduckgo/Android/issues",
+      "license": "Apache-2.0",
+      "name": "DuckDuckGo Privacy Browser",
+      "sourceCode": "https://github.com/duckduckgo/Android",
+      "webSite": "https://duckduckgo.com/app",
+      "added": 1651517808000,
+      "icon": "com.duckduckgo.mobile.android.51210000.png",
+      "packageName": "com.duckduckgo.mobile.android",
+      "lastUpdated": 1651517808000,
+      "localized": {
+        "bn": {
+          "summary": "\u0997\u09cb\u09aa\u09a8\u09c0\u09df\u09a4\u09be, \u09b8\u09b9\u099c\u0995\u09c3\u09a4"
+        },
+        "de": {
+          "summary": "Privatsph\u00e4re vereinfacht"
+        },
+        "en-US": {
+          "icon": "icon.png",
+          "summary": "Privacy, simplified"
+        },
+        "eo": {
+          "summary": "Privateco, simpligita: oficiala ret\u2011foliumilo"
+        },
+        "es": {
+          "summary": "Privacidad, simplificada"
+        },
+        "fi": {
+          "summary": "Yksityisyys, yksinkertaisesti"
+        },
+        "fr": {
+          "summary": "Votre confidentialit\u00e9, simplifi\u00e9e"
+        },
+        "he": {
+          "summary": "\u05e4\u05e8\u05d8\u05d9\u05d5\u05ea, \u05d1\u05e4\u05e9\u05d8\u05d5\u05ea"
+        },
+        "is": {
+          "summary": "Gagnaleynd, einf\u00f6ldu\u00f0"
+        },
+        "it": {
+          "summary": "Privacy, semplificata"
+        },
+        "kab": {
+          "summary": "Taba\u1e0dnit, s tefses."
+        },
+        "nb": {
+          "summary": "Forenklet personvern"
+        },
+        "nn": {
+          "summary": "Personvern p\u00e5 ein enkel m\u00e5te"
+        },
+        "pl": {
+          "summary": "Prywatny, uproszczony"
+        },
+        "pt": {
+          "summary": "Privacidade, simplificado"
+        },
+        "pt-BR": {
+          "summary": "Privacidade, simplificada"
+        },
+        "pt-PT": {
+          "summary": "Privacidade, simplificado"
+        },
+        "ro": {
+          "summary": "Confiden\u021bialitate, simplificat\u0103"
+        },
+        "ru": {
+          "summary": "\u041a\u043e\u043d\u0444\u0438\u0434\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c, \u0443\u043f\u0440\u043e\u0449\u0435\u043d\u043d\u0430\u044f"
+        },
+        "sq": {
+          "summary": "Privat\u00ebsi, e thjeshtuar"
+        },
+        "tr": {
+          "summary": "Gizlilik basitle\u015ftirildi"
+        },
+        "uk": {
+          "summary": "\u0421\u043f\u0440\u043e\u0449\u0435\u043d\u0430 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u0456\u0441\u0442\u044c"
+        },
+        "zh-CN": {
+          "summary": "\u9690\u79c1\u4fdd\u62a4\uff0c\u5316\u7e41\u4e3a\u7b80"
+        }
+      }
+    },
+    {
+      "categories": [
+        "Internet",
+        "Default"
+      ],
+      "changelog": "https://k9mail.app/k-9/changelog_5.6-MAINT_branch.xml",
+      "suggestedVersionCode": "30000",
+      "description": "E-mail client supporting multiple accounts, POP3, IMAP and Push IMAP. Can do\nOpenPGP encryption if https://f-droid.org/packages/org.sufficientlysecure.keychain is installed. Settings\nand account configurations can be exported so that they can be imported easily\nif you are switching packages/signatures: a file manager will need to be already\ninstalled to achieve this.",
+      "issueTracker": "https://github.com/k9mail/k-9/issues",
+      "liberapayID": "34990",
+      "license": "Apache-2.0",
+      "sourceCode": "https://github.com/k9mail/k-9",
+      "translation": "https://www.transifex.com/projects/p/k9mail/",
+      "webSite": "https://k9mail.app/",
+      "added": 1651517811000,
+      "packageName": "com.fsck.k9",
+      "lastUpdated": 1651517811000,
+      "localized": {
+        "de": {
+          "summary": "Voll ausgestatteter E-Mail-Client"
+        },
+        "en-US": {
+          "icon": "icon.png",
+          "name": "K-9 Mail",
+          "summary": "Full-featured email client"
+        },
+        "eo": {
+          "summary": "Funkciplena retpo\u015dtilo"
+        },
+        "es": {
+          "summary": "Cliente de email lleno de funciones"
+        },
+        "fr": {
+          "summary": "Client de messagerie complet"
+        },
+        "he": {
+          "summary": "\u05dc\u05e7\u05d5\u05d7 \u05d3\u05d5\u05d0\u05f4\u05dc \u05e2\u05e9\u05d9\u05e8"
+        },
+        "it": {
+          "summary": "Client di posta elettronica completo"
+        },
+        "nb": {
+          "summary": "Fullverdig e-postklient"
+        },
+        "pl": {
+          "summary": "Pe\u0142na obs\u0142uga poczty elektronicznej"
+        },
+        "pt": {
+          "summary": "Cliente de e-mail com todas as funcionalidades"
+        },
+        "pt-BR": {
+          "summary": "Cliente de e-mail cheio de funcionalidades"
+        },
+        "pt-PT": {
+          "summary": "Cliente de e-mail com todas as funcionalidades"
+        },
+        "ro": {
+          "summary": "Client de e-mail cu func\u021bii complete"
+        },
+        "ru": {
+          "summary": "\u041f\u043e\u043b\u043d\u043e\u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u043e\u0447\u0442\u043e\u0432\u044b\u0439 \u043a\u043b\u0438\u0435\u043d\u0442"
+        },
+        "sq": {
+          "summary": "Klient email i plot\u00eb"
+        },
+        "tr": {
+          "summary": "Tam \u00f6zellikli e-posta istemcisi"
+        },
+        "uk": {
+          "summary": "\u041f\u043e\u0432\u043d\u043e\u043c\u043e\u0436\u043b\u0438\u0432\u0456\u0441\u043d\u0438\u0439 \u043f\u043e\u0448\u0442\u043e\u0432\u0438\u0439 \u043a\u043b\u0456\u0454\u043d\u0442"
+        },
+        "zh-CN": {
+          "summary": "\u5168\u529f\u80fd\u7535\u5b50\u90ae\u4ef6\u5ba2\u6237\u7aef"
+        }
+      }
+    },
+    {
+      "categories": [
+        "Reading",
+        "Default"
+      ],
+      "changelog": "https://git.ghostscript.com/?p=mupdf.git;a=blob_plain;f=CHANGES;hb=HEAD",
+      "suggestedVersionCode": "100",
+      "description": "MuPDF supports PDF 1.7 with transparency, encryption, hyperlinks, annotations,\nsearching, form editing and more. It also reads OpenXPS and CBZ (comic book)\ndocuments.",
+      "issueTracker": "https://bugs.ghostscript.com",
+      "license": "AGPL-3.0-or-later",
+      "sourceCode": "https://git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary",
+      "webSite": "https://mupdf.com",
+      "added": 1651517812000,
+      "icon": "com.artifex.mupdf.viewer.app.100.png",
+      "packageName": "com.artifex.mupdf.viewer.app",
+      "lastUpdated": 1651517812000,
+      "localized": {
+        "de": {
+          "summary": "Leichtgewichtiger Dokumentenbetrachter"
+        },
+        "en-US": {
+          "icon": "icon.png",
+          "name": "MuPDF viewer",
+          "summary": "Lightweight document viewer"
+        },
+        "es": {
+          "summary": "Visualizador de documentos lig\u00e9ro"
+        },
+        "fi": {
+          "summary": "H\u00f6yhenkevyt asiakirjakatselin"
+        },
+        "fr": {
+          "summary": "Visionneuse de documents l\u00e9g\u00e8re"
+        },
+        "he": {
+          "summary": "\u05de\u05e6\u05d9\u05d2 \u05de\u05e1\u05de\u05db\u05d9\u05dd \u05e7\u05dc\u05d9\u05dc"
+        },
+        "it": {
+          "summary": "Un leggero visualizzatore di documenti"
+        },
+        "nb": {
+          "summary": "Lettvektig dokumentviser"
+        },
+        "pl": {
+          "summary": "Przegl\u0105darka dokument\u00f3w"
+        },
+        "pt": {
+          "summary": "Visualizador de documentos leve"
+        },
+        "pt-BR": {
+          "summary": "Visualizador de documentos leve"
+        },
+        "pt-PT": {
+          "summary": "Visualizador de documentos leve"
+        },
+        "ro": {
+          "summary": "Vizualizator de documente u\u0219or"
+        },
+        "ru": {
+          "summary": "\u041b\u0435\u0433\u043a\u0430\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0430 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u0432"
+        },
+        "sq": {
+          "summary": "Par\u00ebs dokumentesh i pesh\u00ebs s\u00eb leht\u00eb"
+        },
+        "tr": {
+          "summary": "Hafif belge g\u00f6r\u00fcnt\u00fcleyici"
+        },
+        "uk": {
+          "summary": "\u041c\u0456\u043d\u0456\u043c\u0430\u043b\u0456\u0441\u0442\u0438\u0447\u043d\u0438\u0439 \u043f\u0435\u0440\u0435\u0433\u043b\u044f\u0434\u0430\u0447 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432"
+        },
+        "zh-CN": {
+          "summary": "\u8f7b\u91cf\u7ea7\u6587\u6863\u67e5\u770b\u5668"
+        }
+      }
+    },
+    {
+      "categories": [
+        "Internet"
+      ],
+      "changelog": "https://github.com/nextcloud/android/blob/HEAD/CHANGELOG.md",
+      "suggestedVersionCode": "30200052",
+      "description": "A safe home for all your data. Access & share your files, calendars, contacts,\nmail & more from any device, on your terms. This is the official Android app.\n\n'''Features:'''\n\n* Easy, modern interface\n* Upload your files to your Nextcloud server\n* Share your files with others\n* Keep your favorite files and folders synced\n* Instant Upload for photos and videos taken by your device\n* Multi-account support",
+      "donate": "https://nextcloud.com/include/",
+      "issueTracker": "https://github.com/nextcloud/android/issues",
+      "license": "GPL-2.0-only",
+      "sourceCode": "https://github.com/nextcloud/android",
+      "translation": "https://www.transifex.com/nextcloud/nextcloud/",
+      "webSite": "https://nextcloud.com",
+      "added": 1651517816000,
+      "packageName": "com.nextcloud.client",
+      "lastUpdated": 1651517816000,
+      "localized": {
+        "cs": {
+          "summary": "Synchroniza\u010dn\u00ed klient"
+        },
+        "de": {
+          "summary": "Synchronisationsclient"
+        },
+        "en-US": {
+          "icon": "icon.png",
+          "name": "Nextcloud",
+          "summary": "Synchronization client"
+        },
+        "eo": {
+          "summary": "Oficeja programaro lan\u0109ata en privata servilo, kiun vi regas"
+        },
+        "es": {
+          "summary": "Cliente de sincronizaci\u00f3n"
+        },
+        "et": {
+          "summary": "Nextcloud'i s\u00fcnkroniseerimisklient"
+        },
+        "eu": {
+          "summary": "Sinkronizazio bezeroa"
+        },
+        "fr": {
+          "summary": "Client de synchronisation"
+        },
+        "he": {
+          "summary": "\u05dc\u05e7\u05d5\u05d7 \u05e1\u05e0\u05db\u05e8\u05d5\u05df"
+        },
+        "is": {
+          "summary": "Samstillingarforrit"
+        },
+        "it": {
+          "summary": "Client di sincronizzazione"
+        },
+        "ja": {
+          "summary": "\u540c\u671f\u30af\u30e9\u30a4\u30a2\u30f3\u30c8"
+        },
+        "nb": {
+          "summary": "Synkroniseringsklient"
+        },
+        "nn": {
+          "summary": "Synkroniseringsklient"
+        },
+        "pl": {
+          "summary": "Klient synchronizacji"
+        },
+        "pt": {
+          "summary": "Cliente de sincroniza\u00e7\u00e3o"
+        },
+        "pt-BR": {
+          "summary": "Cliente de sincroniza\u00e7\u00e3o"
+        },
+        "pt-PT": {
+          "summary": "Cliente de sincroniza\u00e7\u00e3o"
+        },
+        "ro": {
+          "summary": "Client de sincronizare"
+        },
+        "ru": {
+          "summary": "\u041a\u043b\u0438\u0435\u043d\u0442 \u0441\u0438\u043d\u0445\u0440\u043e\u043d\u0438\u0437\u0430\u0446\u0438\u0438"
+        },
+        "tr": {
+          "summary": "E\u015fzamanlama istemcisi"
+        },
+        "uk": {
+          "summary": "\u041a\u043b\u0456\u0454\u043d\u0442 \u0441\u0438\u043d\u0445\u0440\u043e\u043d\u0456\u0437\u0430\u0446\u0456\u0457"
+        },
+        "zh-CN": {
+          "summary": "\u540c\u6b65\u5ba2\u6237\u7aef"
+        }
+      }
+    },
+    {
+      "antiFeatures": [
+        "Tracking"
+      ],
+      "authorEmail": "contact@openobservatory.org",
+      "authorName": "Open Observatory of Network Interference",
+      "authorWebSite": "https://ooni.io/",
+      "categories": [
+        "Internet",
+        "Security",
+        "Default"
+      ],
+      "changelog": "https://github.com/ooni/probe-android/releases",
+      "suggestedVersionCode": "89",
+      "description": "Are websites and social media apps blocked? Is your network unusually slow?\nRun OONI Probe to find out!\n\nWith this app, you will examine the blocking of websites and instant\nmessaging apps, measure your network\u2019s speed and performance, and check\nwhether systems that could be responsible for censorship and surveillance\nare in your network.\n\nOONI Probe is developed by the Open Observatory of Network Interference\n(OONI), a free software project (under The Tor Project) that aims to uncover\ninternet censorship around the world.\n\nSince 2012, OONI\u2019s global community has collected millions of network\nmeasurements from more than 200 countries, shedding light on multiple cases\nof network interference.\n\n'''Collect evidence of internet censorship'''\nYou can check whether and how websites and instant messaging apps are\nblocked. The network measurement data you will collect may serve as evidence\nof internet censorship.\n\n'''Detect systems responsible for censorship and surveillance'''\nOONI Probe tests are also designed to uncover the presence of systems\n(middleboxes) that could be responsible for censorship and surveillance.\n\n'''Measure the speed and performance of your network'''\nYou can measure the speed and performance of your network by running OONI\u2019s\nimplementation of the Network Diagnostic Test (NDT). You can also measure\nvideo streaming performance with the Dynamic Adaptive Streaming over HTTP\n(DASH) test.\n\n'''Open data'''\nOONI publishes network measurement data because open data allows third\nparties to verify OONI findings, conduct independent studies, and answer\nother research questions. Openly publishing OONI data also helps increase\ntransparency of internet censorship around the world. You can explore and\ndownload OONI data here: https://ooni.io/data/\n\n'''Free software'''\nAll OONI Probe tests (including our NDT and DASH implementations), are based\non free and open source software. You can find OONI software projects\n<a href=\"https://github.com/ooni\">on Github</a>. Curious to learn how OONI Probe tests\nwork? Learn more <a href=\"https://ooni.io/nettest\">here</a>.\n\nTo receive updates from the OONI-verse,\n<a href=\"https://twitter.com/OpenObservatory\">follow us on Twitter</a>\n\nDisclaimer: Running OONI Probe might be against the terms of service of your ISP\nor legally questionable in your country. By running OONI Probe, you will connect\nto web services which might be banned. The OONI project will publish data\nsubmitted by probes, possibly including your IP address or other identifying\ninformation. In addition, your use of OONI Probe will be clear to anyone who has\naccess to your computer, and to anyone who can monitor your Internet connection\n(such as your employer, ISP or government). Learn more about potential risks\n<a href=\"https://ooni.torproject.org/about/risks\">here</a>",
+      "issueTracker": "https://github.com/ooni/probe-android/issues",
+      "license": "BSD-2-Clause",
+      "sourceCode": "https://github.com/ooni/probe-android",
+      "translation": "https://www.transifex.com/otf/ooniprobe/",
+      "webSite": "https://ooni.torproject.org/",
+      "added": 1651517822000,
+      "packageName": "org.openobservatory.ooniprobe",
+      "lastUpdated": 1651517822000,
+      "localized": {
+        "de": {
+          "summary": "Offenes Observatorium von Netzerk-Interferenzen (OONI)"
+        },
+        "en-US": {
+          "icon": "icon.png",
+          "name": "OONI Probe",
+          "summary": "Open Observatory of Network Interference (OONI)"
+        },
+        "eo": {
+          "summary": "Malferma Observatorio pri Perturboj en Interreto (OONI)"
+        },
+        "es": {
+          "summary": "Observatorio Abierto de Interferencia de Redes (OONI)"
+        },
+        "fr": {
+          "summary": "Observatoire Ouvert des Interf\u00e9rences du R\u00e9seau (OONI)"
+        },
+        "he": {
+          "summary": "\u05d7\u05d5\u05e7\u05e8 \u05e4\u05ea\u05d5\u05d7 \u05dc\u05d4\u05e4\u05e8\u05e2\u05d5\u05ea \u05ea\u05e7\u05e9\u05d5\u05e8\u05ea (OONI)"
+        },
+        "it": {
+          "summary": "Osservatorio aperto delle interferenze di rete (OONI)"
+        },
+        "nb": {
+          "summary": "\u00c5pent observatorium for nettverksinterferens (OONI)"
+        },
+        "pl": {
+          "summary": "Otwarte Obserwatorium Zak\u0142\u00f3ce\u0144 w Sieci (OONI)"
+        },
+        "pt": {
+          "summary": "Observat\u00f3rio Aberto de Interfer\u00eancia de Rede (OONI)"
+        },
+        "pt-BR": {
+          "summary": "Observat\u00f3rio Aberto de Interfer\u00eancia de Rede (OONI)"
+        },
+        "pt-PT": {
+          "summary": "Observat\u00f3rio Aberto de Interfer\u00eancia de Rede (OONI)"
+        },
+        "ro": {
+          "summary": "Observatorul deschis al interferen\u021belor \u00een re\u021bea (OONI)"
+        },
+        "ru": {
+          "summary": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f \u043e\u0431\u0441\u0435\u0440\u0432\u0430\u0442\u043e\u0440\u0438\u044f \u0441\u0435\u0442\u0435\u0432\u044b\u0445 \u043f\u043e\u043c\u0435\u0445 (OONI)"
+        },
+        "tr": {
+          "summary": "A\u011f Giri\u015fimi A\u00e7\u0131k G\u00f6zlemevi (OONI)"
+        },
+        "uk": {
+          "summary": "\u0412\u0456\u0434\u043a\u0440\u0438\u0442\u0430 \u043e\u0431\u0441\u0435\u0440\u0432\u0430\u0442\u043e\u0440\u0456\u044f \u043c\u0435\u0440\u0435\u0436\u043d\u0438\u0445 \u043f\u0435\u0440\u0435\u0448\u043a\u043e\u0434 (OONI)"
+        },
+        "zh-CN": {
+          "summary": "\u5f00\u653e\u5f0f\u7f51\u7edc\u5e72\u6270\u89c2\u6d4b\u7ad9 (OONI)"
+        }
+      }
+    },
+    {
+      "authorEmail": "marten@dmfs.org",
+      "authorName": "Marten Gajda",
+      "authorWebSite": "https://dmfs.org/",
+      "categories": [
+        "Writing",
+        "Default"
+      ],
+      "changelog": "https://github.com/dmfs/opentasks/releases",
+      "suggestedVersionCode": "82200",
+      "description": "A task manager app, allowing you to categorise your todo list by urgency, state,\ntimeframe etc.\n\nTasks can be synchronised with a CalDAV server using, e.g.,\nhttps://f-droid.org/packages/at.bitfire.davdroid and https://f-droid.org/packages/com.etesync.syncadapter",
+      "issueTracker": "https://github.com/dmfs/opentasks/issues",
+      "license": "Apache-2.0",
+      "sourceCode": "https://github.com/dmfs/opentasks",
+      "webSite": "https://opentasks.app/",
+      "added": 1651517848000,
+      "icon": "org.dmfs.tasks.82200.png",
+      "packageName": "org.dmfs.tasks",
+      "lastUpdated": 1651517848000,
+      "localized": {
+        "de": {
+          "summary": "Eigene Zielsetzungen im Auge behalten"
+        },
+        "en-US": {
+          "icon": "icon.png",
+          "name": "OpenTasks",
+          "summary": "Keep track of your list of goals"
+        },
+        "fr": {
+          "summary": "Gardez une trace de votre liste d'objectifs"
+        },
+        "he": {
+          "summary": "\u05de\u05e2\u05e7\u05d1 \u05d0\u05d7\u05e8 \u05e8\u05e9\u05d9\u05de\u05ea \u05d4\u05d9\u05e2\u05d3\u05d9\u05dd \u05e9\u05dc\u05da"
+        },
+        "it": {
+          "summary": "Tieni traccia della tua lista di obiettivi"
+        },
+        "pl": {
+          "summary": "Zarz\u0105dzanie list\u0105 zada\u0144 do wykonania"
+        },
+        "pt": {
+          "summary": "Mantenha-se a par da sua lista de metas"
+        },
+        "pt-BR": {
+          "summary": "Acompanhe a sua lista de metas"
+        },
+        "pt-PT": {
+          "summary": "Mantenha-se a par da sua lista de metas"
+        },
+        "ro": {
+          "summary": "\u021aine\u021bi eviden\u021ba listei dumneavoastr\u0103 de obiective"
+        },
+        "sq": {
+          "summary": "Ndiqni list\u00ebn tuaj t\u00eb synimeve"
+        },
+        "tr": {
+          "summary": "Hedefler listenizi akl\u0131n\u0131zda tutun"
+        },
+        "uk": {
+          "summary": "\u0412\u0456\u0434\u0441\u0442\u0435\u0436\u0435\u043d\u043d\u044f \u0441\u043f\u0438\u0441\u043a\u0443 \u0446\u0456\u043b\u0435\u0439"
+        },
+        "zh-CN": {
+          "summary": "\u8ffd\u8e2a\u76ee\u6807\u6e05\u5355"
+        }
+      }
+    },
+    {
+      "bitcoin": "1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk",
+      "categories": [
+        "Security",
+        "Internet",
+        "Default"
+      ],
+      "suggestedVersionCode": "1660300400",
+      "description": "Tor is both software and an open network that helps you defend against network\nsurveillance that threatens personal freedom and privacy, confidential business\nactivities and relationships.\n\nOrbot allows access to Tor by accessing a local SOCKS or HTTP proxy.\nOn a rooted device, the proxying can be completely transparent\ni.e. the app that accesses the network need not be aware of the\nproxy's existence; you can choose which apps go via the proxy in the\nsettings.\n\nIf you don't have root access, there are some apps that are designed to work\nclosely with tor or allow proxied connections:\nhttps://f-droid.org/packages/info.guardianproject.otr.app.im, https://f-droid.org/packages/acr.browser.lightning and\nhttps://f-droid.org/packages/org.mariotaku.twidere. There is also a proxy configurator addon for Firefox\ncalled <a href=\"https://github.com/guardianproject/ProxyMob/downloads\">ProxyMob</a> (not yet\navailable from the Mozilla addon site).\n",
+      "donate": "https://www.torproject.org/donate/donate.html.en",
+      "flattrID": "5649",
+      "issueTracker": "https://dev.guardianproject.info/projects/orbot/issues",
+      "liberapay": "GuardianProject",
+      "license": "BSD-3-Clause",
+      "sourceCode": "https://gitweb.torproject.org/orbot.git",
+      "translation": "https://hosted.weblate.org/projects/guardianproject/orbot",
+      "webSite": "https://www.torproject.org/docs/android.html",
+      "added": 1651517824000,
+      "packageName": "org.torproject.android",
+      "lastUpdated": 1651517824000,
+      "localized": {
+        "af": {
+          "summary": "Verbeter jou privaatheid, breek deur middel van firewalls en meer veilig te komm"
+        },
+        "am": {
+          "summary": ", \u130d\u120b\u12ca\u1290\u1275\u12ce\u1295 \u12a0\u123b\u123d\u120d \u12ac\u120b\u12ce\u127d \u1260\u12a9\u120d \u1208\u1218\u120b\u1240\u1245 \u12a5\u1293 \u12f0\u1205\u1295\u1290\u1275\u12ce \u12ed\u1260\u120d\u1325 \u1260\u1270\u1320\u1260\u1240 \u1201\u1294\u1273 \u1218\u1308\u1293\u1298\u1275."
+        },
+        "ar": {
+          "summary": "\u0627\u0648\u0631\u0628\u0648\u062a\u0628\u0631\u0648\u0643\u0633\u064a \u0645\u0639 \u062a\u0648\u0631"
+        },
+        "bg": {
+          "summary": "\u041f\u043e\u0434\u043e\u0431\u0440\u0435\u0442\u0435 \u043f\u043e\u0432\u0435\u0440\u0438\u0442\u0435\u043b\u043d\u043e\u0441\u0442\u0442\u0430 \u0441\u0438, \u043c\u0438\u043d\u0435\u0442\u0435 \u043f\u0440\u0435\u0437 \u0437\u0430\u0449\u0438\u0442\u043d\u0438 \u0441\u0442\u0435\u043d\u0438, \u043e\u0431\u0449\u0443\u0432\u0430\u0439\u0442\u0435 \u043f\u043e-\u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e."
+        },
+        "ca": {
+          "summary": "Millori la seva privacitat, trencar a trav\u00e9s de tallafocs i comunicar-se de form"
+        },
+        "cs": {
+          "summary": "Vylep\u0161ete va\u0161e soukrom\u00ed, prorazit br\u00e1ny firewall a komunikovat bezpe\u010dn\u011b."
+        },
+        "de": {
+          "summary": "Vermittlung ins Tor-Netzwerk"
+        },
+        "el": {
+          "summary": "\u0392\u03b5\u03bb\u03c4\u03b9\u03ce\u03c3\u03c4\u03b5 \u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03c4\u03b7\u03c2 \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ae\u03c2 \u03b6\u03c9\u03ae\u03c2 \u03c3\u03b1\u03c2, \u03bd\u03b1 \u03c3\u03c0\u03ac\u03c3\u03b5\u03b9 \u03bc\u03ad\u03c3\u03c9 firewalls \u03ba\u03b1\u03b9 \u03bd\u03b1 "
+        },
+        "en-US": {
+          "icon": "icon.png",
+          "name": "Orbot",
+          "summary": "Enhance your privacy, break through firewalls and communicate more safely."
+        },
+        "eo": {
+          "summary": "Pliigi vian privatecon, konekti tra fajro\u015dirmiloj kaj pli sekure."
+        },
+        "et": {
+          "summary": "Ehita oma privaatsust, murda l\u00e4bi tulem\u00fc\u00fcride ja suhelda turvaliselt."
+        },
+        "fi": {
+          "summary": "Paranna yksityisyytt\u00e4, murtaa palomuurien ja kommunikoida turvallisemmin."
+        },
+        "hi": {
+          "summary": "\u0906\u092a\u0915\u0940 \u0917\u094b\u092a\u0928\u0940\u092f\u0924\u093e \u0915\u094b \u092c\u0922\u093c\u093e\u0928\u0947, \u092b\u093e\u092f\u0930\u0935\u0949\u0932 \u0915\u0947 \u092e\u093e\u0927\u094d\u092f\u092e \u0938\u0947 \u0924\u094b\u0921\u093c\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0914\u0930 \u0905\u0927\u093f\u0915 \u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924 \u0930\u0942\u092a"
+        },
+        "hr": {
+          "summary": "Pobolj\u0161ajte svoju privatnost, probiti firewall i komunicirati vi\u0161e sigurno."
+        },
+        "hu": {
+          "summary": "Fokozza az adatv\u00e9delm\u00e9t, t\u00f6rj\u00f6n \u00e1t t\u0171zfalakon \u00e9s kommunik\u00e1ljon biztons\u00e1gosabban."
+        },
+        "id": {
+          "summary": "Meningkatkan privasi Anda, menerobos firewall dan berkomunikasi lebih aman."
+        },
+        "it": {
+          "summary": "Migliora la tua privacy, aggira i firewall e comunica in modo pi\u00f9 sicuro."
+        },
+        "ja": {
+          "summary": "\u3042\u306a\u305f\u306e\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u3092\u5f37\u5316\u3001\u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u3092\u7a81\u7834\u3059\u308b\u3068\u3001\u3088\u308a\u5b89\u5168\u306b\u901a\u4fe1\u3057\u307e\u3059\u3002"
+        },
+        "ko": {
+          "summary": "\uac1c\uc778 \uc815\ubcf4 \ubcf4\ud638\ub97c \uac15\ud654\ud558\uace0, \ubc29\ud654\ubcbd\uc744 \ud1b5\ud574 \ud734\uc2dd\uacfc\ubcf4\ub2e4 \uc548\uc804\ud558\uac8c \ud1b5\uc2e0 \ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
+        },
+        "lt": {
+          "summary": "Patobulinkite savo privatum\u0105, pralau\u017eti u\u017ekardas ir daugiau bendrauti saugiai."
+        },
+        "lv": {
+          "summary": "Uzlabojiet savu priv\u0101tumu, izlauzties cauri ugunsm\u016briem un sazin\u0101ties dro\u0161\u0101k."
+        },
+        "nl": {
+          "summary": "Verbeter uw privacy, breken door firewalls en communiceren meer veilig."
+        },
+        "no": {
+          "summary": "Forbedre ditt privatliv, bryte gjennom brannmurer og kommunisere sikkert."
+        },
+        "pl": {
+          "summary": "Popraw prywatno\u015b\u0107, przebij si\u0119 przez zapory ogniowe i komunikuj si\u0119 bezpiecznie."
+        },
+        "pt": {
+          "summary": "Melhore a sua privacidade, abra firewalls e comunique com mais seguran\u00e7a."
+        },
+        "pt-PT": {
+          "summary": "Melhore a sua privacidade, abra firewalls e comunique com mais seguran\u00e7a."
+        },
+        "ro": {
+          "summary": "Spori intimitatea, rupe prin intermediul firewall-uri \u0219i de a comunica mai mult "
+        },
+        "ru": {
+          "summary": "Orbot\u041f\u0440\u043e\u043a\u0441\u0438 \u0432 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442\u0435 \u0441 TorOrbot\u041f\u0440\u043e\u043a\u0441\u0438 \u0432 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442\u0435 \u0441 Tor"
+        },
+        "sk": {
+          "summary": "Vylep\u0161ite va\u0161e s\u00fakromie, prerazi\u0165 br\u00e1ny firewall a komunikova\u0165 bezpe\u010dne."
+        },
+        "sl": {
+          "summary": "Izbolj\u0161ajte svojo zasebnost, prekinil skozi po\u017earne zidove in komunicirati bolj "
+        },
+        "sv": {
+          "summary": "F\u00f6rb\u00e4ttra din integritet, bryta igenom brandv\u00e4ggar och kommunicera p\u00e5 ett s\u00e4kert"
+        },
+        "sw": {
+          "summary": "Kuongeza siri yako, kuvunja kupitia firewalls na kuwasiliana kwa usalama zaidi."
+        },
+        "th": {
+          "summary": "\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e04\u0e27\u0e32\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e2a\u0e48\u0e27\u0e19\u0e15\u0e31\u0e27\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13\u0e15\u0e31\u0e14\u0e1c\u0e48\u0e32\u0e19\u0e44\u0e1f\u0e23\u0e4c\u0e27\u0e2d\u0e25\u0e25\u0e4c\u0e41\u0e25\u0e30\u0e01\u0e32\u0e23\u0e2a\u0e37\u0e48\u0e2d\u0e2a\u0e32\u0e23\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22\u0e21\u0e32\u0e01\u0e02\u0e36\u0e49\u0e19"
+        },
+        "tr": {
+          "summary": "Gizlili\u011finizi art\u0131r\u0131n, g\u00fcvenlik duvarlar\u0131ndan ge\u00e7in ve g\u00fcvenli ileti\u015fim kurun."
+        },
+        "uk": {
+          "summary": "\u041f\u043e\u043a\u0440\u0430\u0449\u0442\u0435 \u0441\u0432\u043e\u044e \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u0456\u0441\u0442\u044c, \u043f\u0440\u043e\u0440\u0432\u0456\u0442\u044c \u0431\u0440\u0430\u043d\u0434\u043c\u0430\u0443\u0435\u0440\u0438 \u0442\u0430 \u0441\u043f\u0456\u043b\u043a\u0443\u0439\u0442\u0435\u0441\u044f \u0431\u0435\u0437\u043f\u0435\u0447\u043d\u0456\u0448\u0435."
+        },
+        "zh-CN": {
+          "summary": "\u589e\u5f3a\u60a8\u7684\u9690\u79c1\uff0c\u7a81\u7834\u9632\u706b\u5899\u5e76\u66f4\u5b89\u5168\u5730\u8fdb\u884c\u901a\u4fe1\u3002"
+        }
+      }
+    },
+    {
+      "categories": [
+        "Navigation",
+        "Default"
+      ],
+      "suggestedVersionCode": "22042702",
+      "description": "Organic Maps offers fast offline maps app for travelers, tourists, hikers and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MAPS.ME founders.\n\n* Detailed offline maps with places that don't exist on other maps\n* Cycling routes, hiking trails and walking paths\n* Contour lines, elevation profiles, peaks and slopes\n* Turn-by-turn walking, cycling and car navigation with voice guidance\n* Fast offline search on the map and bookmarks\n* Dark mode to protect your eyes\n* No ads, no trackers, no data collection, no crapware, no pesticides",
+      "issueTracker": "https://github.com/organicmaps/organicmaps/issues",
+      "license": "Apache-2.0",
+      "sourceCode": "https://github.com/organicmaps/organicmaps/tree/HEAD",
+      "webSite": "https://organicmaps.app/",
+      "added": 1651517829000,
+      "packageName": "app.organicmaps",
+      "lastUpdated": 1651517829000,
+      "localized": {
+        "en-US": {
+          "icon": "icon.png",
+          "name": "Organic Maps",
+          "summary": "Offline maps with turn-by-turn navigation"
+        }
+      }
+    },
+    {
+      "authorName": "LEAP",
+      "authorWebSite": "https://leap.se/",
+      "bitcoin": "1F3KowUJBfvocr1H6DRvwFxfETJ18e8Dp6",
+      "categories": [
+        "Internet",
+        "Security",
+        "Default"
+      ],
+      "changelog": "https://0xacab.org/leap/bitmask_android/blob/HEAD/CHANGELOG",
+      "suggestedVersionCode": "160000",
+      "description": "RiseupVPN is an application to provide easy and secure encrypted communication.\nThe app is a custom branded build of https://f-droid.org/packages/se.leap.bitmaskclient. This version is\npreconfigured with one trusted provider\u2014the Riseup collective\u2014and allows\nanonymous VPN usage without any manual setup.\n\nBy encrypting and securely routing all your network traffic through Riseup\u2019s\nservers, RiseupVPN is able to prevent many forms of censorship and surveillance.",
+      "donate": "https://riseup.net/vpn/donate",
+      "issueTracker": "https://0xacab.org/leap/bitmask_android/issues",
+      "license": "GPL-3.0-only",
+      "sourceCode": "https://0xacab.org/leap/bitmask_android",
+      "translation": "https://www.transifex.com/projects/p/bitmask-android",
+      "webSite": "https://riseup.net/",
+      "added": 1651517834000,
+      "icon": "se.leap.riseupvpn.160000.png",
+      "packageName": "se.leap.riseupvpn",
+      "lastUpdated": 1651517834000,
+      "localized": {
+        "de": {
+          "summary": "Sicheres VPN mit Bitmask"
+        },
+        "en-US": {
+          "icon": "icon.png",
+          "name": "Riseup VPN",
+          "summary": "Secure VPN powered by Bitmask"
+        },
+        "eo": {
+          "summary": "Sekura VPN de Bitmask"
+        },
+        "es": {
+          "summary": "VPN segura basada en Bitmask"
+        },
+        "fr": {
+          "summary": "RPV s\u00e9curis\u00e9 propuls\u00e9 par Bitmask"
+        },
+        "he": {
+          "summary": "VPN \u05de\u05d0\u05d5\u05d1\u05d8\u05d7 \u05e9\u05de\u05e1\u05d5\u05e4\u05e8 \u05e2\u05dc \u05d9\u05d3\u05d9 Bitmask"
+        },
+        "it": {
+          "summary": "VPN sicura powered by Bitmask"
+        },
+        "ja": {
+          "summary": "Bitmask\u306b\u3088\u3063\u3066\u63d0\u4f9b\u3055\u308c\u305f\u5b89\u5168\u306aVPN"
+        },
+        "nb": {
+          "summary": "Sikret VPN av Bitmask"
+        },
+        "pl": {
+          "summary": "Bezpieczny VPN zasilany przez Bitmask"
+        },
+        "pt": {
+          "summary": "VPN segura powered by Bitmask"
+        },
+        "pt-BR": {
+          "summary": "VPN segura fornecida pela Bitmask"
+        },
+        "pt-PT": {
+          "summary": "VPN segura powered by Bitmask"
+        },
+        "ro": {
+          "summary": "VPN securizat alimentat de Bitmask"
+        },
+        "ru": {
+          "summary": "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u0439 VPN \u043d\u0430 \u0431\u0430\u0437\u0435 Bitmask"
+        },
+        "tr": {
+          "summary": "Bitmask taraf\u0131ndan desteklenen g\u00fcvenli VPN"
+        },
+        "uk": {
+          "summary": "\u0417\u0430\u0445\u0438\u0449\u0435\u043d\u0438\u0439 VPN \u0432\u0456\u0434 Bitmask"
+        },
+        "zh-CN": {
+          "summary": "\u7531 Bitmask \u8fd0\u884c\u7684\u5b89\u5168 VPN"
+        }
+      }
+    },
+    {
+      "authorEmail": "juam+scrambled@posteo.net",
+      "bitcoin": "bc1qagv574q7k66nwmtef8gxmjge4ekvnjxfytxp5e",
+      "categories": [
+        "System",
+        "Default"
+      ],
+      "changelog": "https://gitlab.com/juanitobananas/scrambled-exif/blob/HEAD/CHANGELOG.md",
+      "suggestedVersionCode": "70",
+      "issueTracker": "https://gitlab.com/juanitobananas/scrambled-exif/issues",
+      "liberapay": "juanitobananas",
+      "license": "GPL-3.0-only",
+      "sourceCode": "https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD",
+      "translation": "https://www.transifex.com/juanitobananas/scrambled-exif/",
+      "added": 1651517836000,
+      "packageName": "com.jarsilio.android.scrambledeggsif",
+      "lastUpdated": 1651517836000,
+      "localized": {
+        "cs-CZ": {
+          "description": "Scrambled Exit (vyslovov\u00e1no <i>egg</i>sif) v\u00e1m pom\u00e1h\u00e1 odstranit metadata z obr\u00e1zk\u016f ne\u017e je sd\u00edl\u00edte.\n\nPokud se na to c\u00edt\u00edte.\n\nPokud nechcete velk\u00e9 internetov\u00e9 spole\u010dnosti (nebo kohokoliv) aby v\u011bd\u011bl kde jste va\u0161e obr\u00e1zky vyfotili tak nezapome\u0148te z nich odstranit metadata ne\u017e je sd\u00edl\u00edte.\n\nPro odstran\u011bn\u00ed metadat z obr\u00e1zku jej jednodu\u0161e sd\u00edlejte jako obvykle a vyberte <i>Scambled Exif</i>. O moment pozd\u011bji se objev\u00ed dialog pro sd\u00edlen\u00ed. Nyn\u00ed u\u017e jen sd\u00edlejte s jakoukoliv aplikac\u00ed jste cht\u011bli.\n\nA voil\u00e0!\n\n<b>Po\u017eadovan\u00e1 Android Opr\u00e1vn\u011bn\u00ed:</b>\n\n\u2605 READ_EXTERNAL_STORAGE pro \u010dten\u00ed obr\u00e1zk\u016f kter\u00e9 chcete sd\u00edlet.\n\n<b>Zdrojov\u00fd k\u00f3d</b>\n\n\u2605 Tato aplikace je open source. M\u016f\u017eete se pod\u00edvat na zdrojov\u00fd k\u00f3d (a m\u016f\u017eete i p\u0159isp\u011bt jestli chcete) zde:\n\nhttps://gitlab.com/juanitobananas/scrambled-exif\n\n<b>P\u0159eklad</b>\n\nPokud tuto aplikaci chete p\u0159elo\u017eit do sv\u00e9ho jazyka, m\u016f\u017eete to ud\u011blat pou\u017eit\u00edm transifex:\n\nhttps://www.transifex.com/juanitobananas/scrambled-exif/\n\n<b>Ostatn\u00ed v\u011bci a Fakty</b>\n\n\u2605 Exif je pou\u017e\u00edv\u00e1n form\u00e1tem JPEG, co\u017e je form\u00e1t ve kter\u00e9m Android kamera ukl\u00e1d\u00e1 vyfocen\u00e9 obr\u00e1zky. Pokud se o Exif chcete dozv\u011bd\u011bt v\u00edc, koukn\u011bte se na Wikipedii.\n\n\u2605 Scrambled Exif tak\u00e9 p\u0159ejmenov\u00e1v\u00e1 sd\u00edlen\u00e9 soubory.\n\n\u2605 Pros\u00edm nebu\u010fte a\u017e moc p\u0159esv\u011bd\u010den\u00ed o tom, \u017ee se data vyma\u017eou. Scrambled Exif d\u011bl\u00e1 svou pr\u00e1ci skv\u011ble, ale m\u016f\u017ee se st\u00e1t n\u011bkdy chyba. V\u017edycky to zkontrolujte ne\u017e budete obr\u00e1zek sd\u00edlet.\n\n\u2605 Vlastn\u011b to Exif data <i>nezam\u00edch\u00e1</i>, ale sma\u017ee. Tak\u017ee to jm\u00e9no je docela hloup\u00e9. Ale m\u011b se l\u00edb\u00ed. Ikona tak\u00e9 nezobrazuje m\u00edchan\u00e1 vejce tak\u017ee je asi taky hloup\u00e1. Ale m\u011b se l\u00edb\u00ed. A tak\u00e9 jsem velk\u00fd fanou\u0161ek vajec. Tak\u017ee tahle aplikace m\u00e1 nejen hloup\u00e9 jm\u00e9no a stejn\u011b hloupou ikonu, ale i mou (ne-hloupou) \u00factu k vejc\u00edm. Hlavn\u011b <i>huevos fritos</i>. Proto\u017ee to miluju.\n\n\u2605 U\u017eijte si sd\u00edlen\u00ed fotek!",
+          "summary": "Odstran\u00ed metadata z va\u0161ich obr\u00e1zku ne\u017e je sd\u00edl\u00edte"
+        },
+        "de-DE": {
+          "description": "Scrambled Exif hilft dir, die Metadaten deiner Bilder zu entfernen, bevor du sie teilst.\n\nWenn du es willst.\n\nWenn du keine Lust hast, dass gro\u00dfe Internetkonzerne (oder wer auch immer) wissen, wo deine Bilder aufgenommen wurden, vergiss nicht, die Metadaten zu entfernen, bevor du sie teilst.\n\nUm Metadaten von einem Bild zu entfernen, teile es wie sonst auch und w\u00e4hle dann <i>Scrambled Exif</i> aus. Einen Moment sp\u00e4ter taucht der \"Teilen\"-Dialog wieder auf. Jetzt musst du nur noch die App ausw\u00e4hlen, mit der du das Bild urspr\u00fcnglich teilen wolltest.\n\nEt voil\u00e0!\n\nBen\u00f6tigte Android-Berechtigungen:\n\n\u2605 READ_EXTERNAL_STORAGE um die Bilder auszulesen, welche \u00fcber andere Apps geteilt werden sollen.\n\n<b>Quellcode</b>\n\n\u2605 Diese App ist quelloffen. Du kannst hier einen Blick auf den Code werfen (und etwas beitragen, wenn du m\u00f6chtest):\n\nhttps://gitlab.com/juanitobananas/scrambled-exif\n\n<b>\u00dcbersetzungen</b>\n\nWenn du helfen m\u00f6chtest, diese App in deine Sprache zu \u00fcbersetzen, dann kannst du das bei Transifex tun:\n\nhttps://www.transifex.com/juanitobananas/scrambled-exif/\n\n<b>Sonstige Dinge und Infos</b>\n\n\u2605 Exif wird haupts\u00e4chlich bei jpeg verwendet, welches ein Format ist, in dem deine Android-Kamera Bilder speichert. Wenn du mehr \u00fcber Exif erfahren m\u00f6chtest, schaue auf Wikipedia nach.\n\n\u2605 Scrambled Exif benennt die Dateien auch um.\n\n\u2605 Bitte verlasse dich nicht darauf, dass die Daten gel\u00f6scht werden. Scrambled Exif macht seine Aarbeit ziemlich gut, aber es kann auch versagen. Pr\u00fcfe immer noch einmal nach, bevor du etwas teilst.\n\n\u2605 Sie vermischt (<i>to scramble</i> = verr\u00fchren) eigentlich die Exif-Daten nicht, sie l\u00f6scht sie. Also ist der Name wohl etwas d\u00e4mlich. Aber ich mag ihn. Das Symbol stellt auch kein R\u00fchrei dar. Also ist das Symbol wohl etwas d\u00e4mlich. Aber ich mag es. Und ich bin ein gro\u00dfer Eierliebhaber. Daher hat diese App nicht nur einen d\u00e4mlichen Namen und ein genauso d\u00e4mliches Symbol, sondern ist auch meine (nicht d\u00e4mliche) W\u00fcrdigung an Eier. Insbesondere <i>huevos fritos</i>. Weil ich sie liebe.\n\n\u2605 Viel Spa\u00df beim Teilen deiner Bilder!",
+          "summary": "Entferne Metadaten von deinen Bildern, bevor du sie teilst."
+        },
+        "el-GR": {
+          "description": "\u03a4\u03bf Scrambled Exif \u03c3\u03b1\u03c2 \u03b2\u03bf\u03b7\u03b8\u03ac\u03b5\u03b9 \u03bd\u03b1 \u03b1\u03c6\u03b1\u03b9\u03c1\u03ad\u03c3\u03b5\u03c4\u03b5 \u03c4\u03b1 \u03bc\u03b5\u03c4\u03b1\u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03c6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b5\u03c2 \u03c3\u03b1\u03c2 \u03c0\u03c1\u03b9\u03bd \u03c4\u03b9\u03c2 \u03bc\u03bf\u03b9\u03c1\u03b1\u03c3\u03c4\u03b5\u03af\u03c4\u03b5.\n\n\u0391\u03bd \u03c4\u03bf \u03b8\u03ad\u03bb\u03b5\u03c4\u03b5.\n\n\u0391\u03bd \u03b4\u03b5\u03bd \u03b8\u03ad\u03bb\u03b5\u03c4\u03b5 \u03bd\u03b1 \u03b3\u03bd\u03c9\u03c1\u03af\u03b6\u03bf\u03c5\u03bd \u03bf\u03b9 \u03bc\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03b5\u03c4\u03b1\u03b9\u03c1\u03b5\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 Internet (\u03ae \u03bf\u03c0\u03bf\u03b9\u03bf\u03c3\u03b4\u03ae\u03c0\u03bf\u03c4\u03b5) \u03c0\u03bf\u03cd \u03b2\u03b3\u03ac\u03bb\u03b1\u03c4\u03b5 \u03c4\u03b9\u03c2 \u03c6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b5\u03c2 \u03c3\u03b1\u03c2, \u03bc\u03b7\u03bd \u03be\u03b5\u03c7\u03bd\u03ac\u03c4\u03b5 \u03bd\u03b1 \u03b1\u03c6\u03b1\u03b9\u03c1\u03b5\u03af\u03c4\u03b5 \u03c4\u03b1 \u03bc\u03b5\u03c4\u03b1\u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03b1\u03c0\u03cc \u03b1\u03c5\u03c4\u03ad\u03c2 \u03c0\u03c1\u03b9\u03bd \u03c4\u03b9\u03c2 \u03bc\u03bf\u03b9\u03c1\u03b1\u03c3\u03c4\u03b5\u03af\u03c4\u03b5.\n\n\u0393\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03c6\u03b1\u03b9\u03c1\u03ad\u03c3\u03b5\u03c4\u03b5 \u03c4\u03b1 \u03bc\u03b5\u03c4\u03b1\u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03b1\u03c0\u03cc \u03bc\u03b9\u03b1 \u03c6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1, \u03b1\u03c0\u03bb\u03ac \u03bc\u03bf\u03b9\u03c1\u03b1\u03c3\u03c4\u03b5\u03af\u03c4\u03b5 \u03c4\u03b7\u03bd \u03cc\u03c0\u03c9\u03c2 \u03b8\u03b1 \u03ba\u03ac\u03bd\u03b1\u03c4\u03b5 \u03ba\u03b1\u03bd\u03bf\u03bd\u03b9\u03ba\u03ac \u03b5\u03c0\u03b9\u03bb\u03ad\u03b3\u03bf\u03bd\u03c4\u03b1\u03c2 \u03c4\u03bf <i>Scrambled Exif</i>. \u039c\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03bb\u03af\u03b3\u03bf \u03c4\u03bf \u03c0\u03b1\u03c1\u03ac\u03b8\u03c5\u03c1\u03bf \u03b4\u03b9\u03b1\u03bc\u03bf\u03b9\u03c1\u03b1\u03c3\u03bc\u03bf\u03cd \u03b8\u03b1 \u03b5\u03bc\u03c6\u03b1\u03bd\u03b9\u03c3\u03c4\u03b5\u03af \u03be\u03b1\u03bd\u03ac. \u03a4\u03ce\u03c1\u03b1 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03bc\u03bf\u03b9\u03c1\u03b1\u03c3\u03c4\u03b5\u03af\u03c4\u03b5 \u03c4\u03b7\u03bd \u03c6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c0\u03bf\u03c5 \u03b8\u03ad\u03bb\u03b1\u03c4\u03b5 \u03bd\u03b1 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03c4\u03b5 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03ae.\n\n\u039a\u03b1\u03b9 \u03b9\u03b4\u03bf\u03cd!\n\n<b>\u0391\u03c0\u03b1\u03b9\u03c4\u03bf\u03cd\u03bc\u03b5\u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bc\u03b1\u03c4\u03b1 Android:</b>\n\n\u2605 \u0391\u039d\u0391\u0393\u039d\u03a9\u03a3\u0397 \u0395\u039e\u03a9\u03a4\u0395\u03a1\u0399\u039a\u039f\u03a5 \u0391\u03a0\u039f\u0398\u0397\u039a\u0395\u03a5\u03a4\u0399\u039a\u039f\u03a5 \u03a7\u03a9\u03a1\u039f\u03a5 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03ac\u03b3\u03bd\u03c9\u03c3\u03b7 \u03c4\u03c9\u03bd \u03c6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03b9\u03ce\u03bd \u03c0\u03c1\u03bf\u03c2 \u03b5\u03c0\u03b5\u03be\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1.\n\n<b>\u03a0\u03b7\u03b3\u03b1\u03af\u03bf\u03c2 \u039a\u03ce\u03b4\u03b9\u03ba\u03b1\u03c2</b>\n\n\u2605 \u0391\u03c5\u03c4\u03ae \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03b9\u03b1 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03b1\u03bd\u03bf\u03b9\u03c7\u03c4\u03bf\u03cd \u03ba\u03ce\u03b4\u03b9\u03ba\u03b1. \u039c\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03c1\u03af\u03be\u03b5\u03c4\u03b5 \u03bc\u03b9\u03b1 \u03bc\u03b1\u03c4\u03b9\u03ac \u03c3\u03c4\u03bf\u03bd \u03ba\u03ce\u03b4\u03b9\u03ba\u03b1 (\u03ba\u03b1\u03b9 \u03bd\u03b1 \u03c3\u03c5\u03bc\u03b2\u03ac\u03bb\u03b5\u03c4\u03b5 \u03b1\u03bd \u03c4\u03bf \u03b8\u03ad\u03bb\u03b5\u03c4\u03b5) \u03b5\u03b4\u03ce:\n\nhttps://gitlab.com/juanitobananas/scrambled-exif\n\n<b>\u039c\u03b5\u03c4\u03b1\u03c6\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2</b>\n\n\u0391\u03bd \u03b5\u03c0\u03b9\u03b8\u03c5\u03bc\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03b2\u03bf\u03b7\u03b8\u03ae\u03c3\u03b5\u03c4\u03b5 \u03bc\u03b5 \u03c4\u03b7 \u03bc\u03b5\u03c4\u03ac\u03c6\u03c1\u03b1\u03c3\u03b7 \u03b1\u03c5\u03c4\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae\u03c2 \u03c3\u03c4\u03b7 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1 \u03c3\u03b1\u03c2, \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03c4\u03bf \u03ba\u03ac\u03bd\u03b5\u03c4\u03b5 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ce\u03bd\u03c4\u03b1\u03c2 \u03c4\u03bf transifex:\n\nhttps://www.transifex.com/juanitobananas/scrambled-exif/\n\n<b>\u0394\u03b9\u03ac\u03c6\u03bf\u03c1\u03b1 \u03c0\u03c1\u03ac\u03b3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1</b>\n\n\u2605 \u0392\u03b1\u03c3\u03b9\u03ba\u03ac, \u03c4\u03bf Exif \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03b5\u03af\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03bc\u03bf\u03c1\u03c6\u03ae \u03b5\u03b9\u03ba\u03cc\u03bd\u03c9\u03bd jpeg, \u03bc\u03bf\u03c1\u03c6\u03ae \u03c4\u03b7\u03bd \u03bf\u03c0\u03bf\u03af\u03b1 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03b5\u03af \u03b7 \u03c6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03ae \u03bc\u03b7\u03c7\u03b1\u03bd\u03ae \u03c4\u03bf\u03c5 Android \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03b8\u03b7\u03ba\u03b5\u03cd\u03b5\u03b9 \u03c6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b5\u03c2. \u0391\u03bd \u03b8\u03ad\u03bb\u03b5\u03c4\u03b5 \u03bd\u03b1 \u03bc\u03ac\u03b8\u03b5\u03c4\u03b5 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03bf Exif, \u03c3\u03c5\u03bc\u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03b5\u03af\u03c4\u03b5 \u03c4\u03b7\u03bd Wikipedia.\n\n\u2605 \u03a4\u03bf Scrambled Exif \u03b5\u03c0\u03af\u03c3\u03b7\u03c2 \u03bc\u03b5\u03c4\u03bf\u03bd\u03bf\u03bc\u03ac\u03b6\u03b5\u03b9 \u03c4\u03b1 \u03b1\u03c1\u03c7\u03b5\u03af\u03b1.\n\n\u2605 \u03a0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u03ce \u03bc\u03b7\u03bd \u03b5\u03be\u03b1\u03c1\u03c4\u03ac\u03c3\u03c4\u03b5 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b4\u03b9\u03b1\u03b3\u03c1\u03b1\u03c6\u03ae \u03c4\u03c9\u03bd \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd. \u03a4\u03bf Scrambled Exif \u03ba\u03ac\u03bd\u03b5\u03b9 \u03c4\u03b7 \u03b4\u03bf\u03c5\u03bb\u03b5\u03b9\u03ac \u03c4\u03bf\u03c5 \u03c0\u03bf\u03bb\u03cd \u03ba\u03b1\u03bb\u03ac, \u03b1\u03bb\u03bb\u03ac \u03b5\u03af\u03bd\u03b1\u03b9 \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc \u03bd\u03b1 \u03b1\u03c0\u03bf\u03c4\u03cd\u03c7\u03b5\u03b9. \u03a0\u03ac\u03bd\u03c4\u03b1 \u03b5\u03bb\u03ad\u03b3\u03be\u03c4\u03b5 \u03be\u03b1\u03bd\u03ac \u03c0\u03c1\u03b9\u03bd \u03bc\u03bf\u03b9\u03c1\u03b1\u03c3\u03c4\u03b5\u03af\u03c4\u03b5.\n\n\u2605 \u0394\u03b5\u03bd \u03b1\u03bd\u03b1\u03ba\u03b1\u03c4\u03b5\u03cd\u03b5\u03b9 (<i>scramble</i>) \u03c4\u03b1 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 Exif \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1, \u03c4\u03b1 \u03b4\u03b9\u03b1\u03b3\u03c1\u03ac\u03c6\u03b5\u03b9. \u039f\u03c0\u03cc\u03c4\u03b5 \u03c4\u03bf \u03cc\u03bd\u03bf\u03bc\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03ac\u03bb\u03bb\u03bf\u03bd \u03c7\u03b1\u03b6\u03cc. \u0391\u03bb\u03bb\u03ac \u03bc\u03bf\u03c5 \u03b1\u03c1\u03ad\u03c3\u03b5\u03b9. \u039f\u03cd\u03c4\u03b5 \u03c4\u03bf \u03b5\u03b9\u03ba\u03bf\u03bd\u03af\u03b4\u03b9\u03bf \u03b1\u03c0\u03b5\u03b9\u03ba\u03bf\u03bd\u03af\u03b6\u03b5\u03b9 \u03b1\u03bd\u03b1\u03ba\u03b1\u03c4\u03b5\u03bc\u03ad\u03bd\u03b1 \u03b1\u03c5\u03b3\u03ac. \u039f\u03c0\u03cc\u03c4\u03b5 \u03c4\u03bf \u03b5\u03b9\u03ba\u03bf\u03bd\u03af\u03b4\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03ac\u03bb\u03bb\u03bf\u03bd \u03c7\u03b1\u03b6\u03cc. \u0391\u03bb\u03bb\u03ac \u03bc\u03bf\u03c5 \u03b1\u03c1\u03ad\u03c3\u03b5\u03b9. \u0395\u03c0\u03af\u03c3\u03b7\u03c2 \u03c4\u03c5\u03c7\u03b1\u03af\u03bd\u03b5\u03b9 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03b1\u03c1\u03ad\u03c3\u03bf\u03c5\u03bd \u03c0\u03bf\u03bb\u03cd \u03c4\u03b1 \u03b1\u03c5\u03b3\u03ac. \u039f\u03c0\u03cc\u03c4\u03b5 \u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03b4\u03b5\u03bd \u03ad\u03c7\u03b5\u03b9 \u03bc\u03cc\u03bd\u03bf \u03c7\u03b1\u03b6\u03cc \u03cc\u03bd\u03bf\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03ad\u03bd\u03b1 \u03b5\u03c0\u03af\u03c3\u03b7\u03c2 \u03c7\u03b1\u03b6\u03cc \u03b5\u03b9\u03ba\u03bf\u03bd\u03af\u03b4\u03b9\u03bf, \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c0\u03af\u03c3\u03b7\u03c2 \u03bf \u03b4\u03b9\u03ba\u03cc\u03c2 \u03bc\u03bf\u03c5 (\u03cc\u03c7\u03b9 \u03c7\u03b1\u03b6\u03cc\u03c2) \u03c6\u03cc\u03c1\u03bf\u03c2 \u03c4\u03b9\u03bc\u03ae\u03c2 \u03c3\u03c4\u03b1 \u03b1\u03c5\u03b3\u03ac. \u0395\u03b9\u03b4\u03b9\u03ba\u03ac \u03c4\u03b1 <i>\u03c4\u03b7\u03b3\u03b1\u03bd\u03b9\u03c4\u03ac \u03b1\u03c5\u03b3\u03ac</i> \u03b3\u03b9\u03b1\u03c4\u03af \u03c4\u03b1 \u03bb\u03b1\u03c4\u03c1\u03b5\u03cd\u03c9.\n\n\u2605 \u03a7\u03b1\u03c1\u03b5\u03af\u03c4\u03b5 \u03bc\u03bf\u03b9\u03c1\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03c2 \u03c4\u03b9\u03c2 \u03c6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b5\u03c2 \u03c3\u03b1\u03c2!",
+          "summary": "\u0391\u03c6\u03b1\u03b9\u03c1\u03ad\u03c3\u03c4\u03b5 \u03c4\u03b1 \u03bc\u03b5\u03c4\u03b1\u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03c6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b5\u03c2 \u03c3\u03b1\u03c2 \u03c0\u03c1\u03b9\u03bd \u03c4\u03b9\u03c2 \u03bc\u03bf\u03b9\u03c1\u03b1\u03c3\u03c4\u03b5\u03af\u03c4\u03b5"
+        },
+        "en-US": {
+          "description": "Scrambled Exif (pronounced <i>egg</i>sif) helps you remove the metadata in your pictures before you share them.\n\nIf you feel like it.\n\nIf you don't want the big Internet companies (or whomever) to know where your pictures were taken don't forget to remove the metadata from them before you share them.\n\nTo remove the metadata from a picture, simply share it like you'd normally do and choose <i>Scrambled Exif</i>. A moment later, the share 'dialog' will reappear. Now just share with the app you intended to share with in the first place.\n\nEt voil\u00e0!\n\n<b>Required Android Permissions:</b>\n\n\u2605 READ_EXTERNAL_STORAGE to read the images other apps share with it.\n\n<b>Source Code</b>\n\n\u2605 This app is open source. You can take a look at the code (and contribute if you feel like it) here:\n\nhttps://gitlab.com/juanitobananas/scrambled-exif\n\n<b>Translations</b>\n\nIf you wish to help to translate this app to your own language, you can do so using transifex:\n\nhttps://www.transifex.com/juanitobananas/scrambled-exif/\n\n<b>Misc Stuff and Facts</b>\n\n\u2605 Basically, Exif is used by jpeg, which is the format in which your Android camera saves pictures. If you want to know more about Exif, check the Wikipedia.\n\n\u2605 Scrambled Exif also renames the files (this can be disabled).\n\n\u2605 Please don't heavily rely on the data being deleted. Scrambled Exif does its job pretty well, but it could fail. Always double-check before you share.\n\n\u2605 It doesn't really <i>scramble</i> the Exif data, it deletes it. So the name is probably stupid. But I like it. The icon doesn't depict scrambled eggs either. So the icon is probably stupid. But I like it. And I also happen to be a huge fan of eggs. So this app doesn't only have a stupid name and an equally stupid icon, it is also my (non-stupid) tribute to eggs. Especially <i>huevos fritos</i>. Because I love them.\n\n\u2605 Have fun sharing your pics!",
+          "icon": "icon.png",
+          "name": "Scrambled Exif",
+          "summary": "Remove the metadata from your pictures before sharing them"
+        },
+        "es-ES": {
+          "description": "Scrambled Exif (pronunciado <i>egg</i> sif) te ayuda a remover los metadatos en tus im\u00e1genes antes de compartirlas.\n\nSi sientes que te gusta.\n\nSi no quieres que las grandes compa\u00f1\u00edas de internet (o quienquiera) sepan d\u00f3nde fueron tomadas tus im\u00e1genes no olvides remover los metadatos de ellas antes de compartirlas.\n\nPara remover los metadatos de una imagen, simplemente comp\u00e1rtelo como normalmente lo haces y escoge <i>Scrambled Exif</i>. Un momento despu\u00e9s, el di\u00e1logo de 'compartir' reaparecer\u00e1. Ahora solo comparte con la aplicaci\u00f3n que planeabas compartir en principio.\n\n\u00a1Y eso es todo!\n\n<b>Permisos de Android requeridos:</b>\n\n\u2605 READ_EXTERNAL_STORAGE para leer las im\u00e1genes que otras aplicaciones comparten.\n\n<b>C\u00f3digo Fuente</b>\n\n\u2605 Esta aplicaci\u00f3n es de fuente abierta. Puedes mirar el c\u00f3digo (y contribuir si te apetece) aqui:\n\nhttps://gitlab.com/juanitobananas/scrambled-exif\n\n<b>Traducciones</b>\n\nSi deseas ayudar a traducir est\u00e1 aplicaci\u00f3n a tu propio lenguaje, puedes hacerlo usando transifex.\n\nhttps://www.transifex.com/juanitobananas/scrambled-exif/\n\n<b>Varias cosas y hechos</b>\n\n\u2605 B\u00e1sicamente, Exif es usado por jpeg, el cual es el formato en el cual tu c\u00e1mara Android guarda las im\u00e1genes. Si quieres saber m\u00e1s acerca de Exif, revisa Wikipedia.\n\n\u2605 Scrambled Exif tambi\u00e9n renombra los archivos.\n\n\u2605 Por favor, no conf\u00edes ciegamente en que los datos ser\u00e1n borrados. Scrambled Exif hace su trabajo bastante bien, pero podr\u00eda fallar. Siempre verifica dos veces antes de compartir.\n\n\u2605 En realidad no <i>revuelve (scramble)</i> los datos Exif, los borra. As\u00ed que el nombre es probablemente est\u00fapido. Pero me gusta. El \u00edcono no representa huevos revueltos tampoco. As\u00ed que el \u00edcono es probablemente est\u00fapido. Pero me gusta. Y tambi\u00e9n result\u00e9 ser un gran fan\u00e1tico de huevos. As\u00ed que est\u00e1 aplicaci\u00f3n no solo tiene un nombre est\u00fapido e igualmente un \u00edcono est\u00fapido, es tambi\u00e9n mi (no-est\u00fapido) tributo a los huevos. Especialmente los <i>huevos fritos</i>. Porque me encantan.\n\n\u2605 Divi\u00e9rtete compartiendo tus fotos!",
+          "summary": "Quita los metadatos de tus im\u00e1genes antes de compartirlas"
+        },
+        "fi-FI": {
+          "description": "Scrambled Exif (lausutaan <i>egg</i>sif) auttaa sinua poistamaan metadatan kuvistasi ennen kuin jaat ne.\n\nJos sinusta silt\u00e4 tuntuu.\n\nJos et tahdo suurten Internet-yritysten (tai jonkun) tiet\u00e4v\u00e4n miss\u00e4 sinun kuvasi on otettu, \u00e4l\u00e4 unohda poistaa metadataa niist\u00e4 ennen kuin jaa ne.\n\nPoistaaksesi metadatan kuvasta, yksinkertaisesti jaa se kuten normaalisti tekisit ja valitse <i>Scrambled Exif</i>. Hetken my\u00f6hemmin, jakamis 'dialogi' avautuu uudestaan. Nyt vain jaa se sovelluksen kanssa johon sen alunperin aioit jakaa.\n\nEt voil\u00e0!\n\n<b>Vaaditut Android Luvat:</b>\n\n\u2605 READ_EXTERNAL_STORAGE jotta sovellus voi lukea kuvan, jonka muut sovellukset jakavat sen kanssa\n\n<b>L\u00e4hdekoodi</b>\n\n\u2605 T\u00e4m\u00e4n sovelluksen l\u00e4hdekoodi on avoin. Voit vilkaista koodia (ja osallistua jos silt\u00e4 tuntuu) t\u00e4\u00e4ll\u00e4:\n\nhttps://gitlab.com/juanitobananas/scrambled-exif\n\n<b>K\u00e4\u00e4nn\u00f6kset</b>\n\nJos tahdot auttaa k\u00e4\u00e4nt\u00e4m\u00e4\u00e4n t\u00e4m\u00e4n sovelluksen omalle kielellesi, voi tehd\u00e4 sen k\u00e4ytt\u00e4m\u00e4ll\u00e4 transifexi\u00e4:\n\nhttps://www.transifex.com/juanitobananas/scrambled-exif/\n\n<b>Sekalaista ja Faktoja</b>\n\n\u2605 Pohjimmiltaan, jpeg k\u00e4ytt\u00e4\u00e4 Exifi\u00e4, joka on tiedostomuoto johon sinun Android kamerasi tallentaa kuvat. Jos tahdot tiet\u00e4\u00e4 lis\u00e4\u00e4 Exifist\u00e4, tarkasta Wikipedia\n\n\u2605 Scrambled Exif my\u00f6s uudelleennime\u00e4\u00e4 tiedostot\n\n\u2605 \u00c4l\u00e4 nojaudu vahvasti datan poistamiseen. Scrambled Exif tekee ty\u00f6ns\u00e4 melko hyvin, mutta se voi my\u00f6s ep\u00e4onnistua. Tarkasta aina kahdesti ennen kuin jaat.\n\n\u2605 Se ei oikeastaan <i>sekoita</i> Exif dataa, mutta poistaa ne. Joten nimi on todenn\u00e4k\u00f6isesti tyhm\u00e4. Mutta min\u00e4 pid\u00e4n siit\u00e4. Ikoni ei my\u00f6sk\u00e4\u00e4n kuvaa munakokkelia. Joten ikoni on todenn\u00e4k\u00f6isesti tyhm\u00e4. Mutta min\u00e4 pid\u00e4n siit\u00e4. Satun my\u00f6s olemaan suuri kananmunafani. Joten t\u00e4ll\u00e4 sovelluksella ei pelk\u00e4st\u00e4\u00e4n ole tyhm\u00e4\u00e4 nime\u00e4 ja yht\u00e4 tyhm\u00e4\u00e4 ikonia, se on my\u00f6s (ei tyhm\u00e4) kunnianosoitus kananmunia kohtaan. Erityisesti <i>huevos fritos</i>. Koska rakastan niit\u00e4.\n\n\u2605 Pid\u00e4 hauskaa kuvia jakaessasi",
+          "summary": "Poista metadata kuvistasi ennen niiden jakamista"
+        },
+        "hu-HU": {
+          "description": "Scrambled exif (ejtsd szkremb\u00f6ld eggzif) seg\u00edt elt\u00e1vol\u00edtani a metaadatokat a k\u00e9pekr\u0151l miel\u0151tt megosztan\u00e1 \u0151ket.\n\nHa \u00fagy \u00e9rzi j\u00f3nak.\n\nHa nem akarja, hogy a nagy internetes c\u00e9gek (vagy b\u00e1rki) tudj\u00e1k, hol k\u00e9sz\u00fcltek a k\u00e9pek, ne felejtse el elt\u00e1vol\u00edtani a metaadatokat, miel\u0151tt megosztan\u00e1 \u0151ket.\n\nA metaadatok egy k\u00e9pb\u0151l val\u00f3 elt\u00e1vol\u00edt\u00e1s\u00e1hoz egyszer\u0171en ossza meg a k\u00e9pet \u00fagy, mint ahogyan \u00e1ltal\u00e1ban, \u00e9s v\u00e1lassza a <i>Scrambled Exif</i> lehet\u0151s\u00e9get. Egy pillanattal k\u00e9s\u0151bb ism\u00e9t megjelenik a megoszt\u00e1si ablak. Most m\u00e1r kiv\u00e1laszthatja azt az alkalmaz\u00e1st, amellyel els\u0151sorban meg szerette volna osztani.\n\n\u00cdme!\n\n<b>Sz\u00fcks\u00e9ges Android-enged\u00e9lyek:</b>\n\n\u2605 READ_EXTERNAL_STORAGE, hogy elolvassa a t\u00f6bbi alkalmaz\u00e1s \u00e1ltal megosztott k\u00e9peket.\n\n<b>Forr\u00e1sk\u00f3d</b>\n\n\u2605 Ez az alkalmaz\u00e1s ny\u00edlt forr\u00e1sk\u00f3d\u00fa. Itt tekintheti meg a k\u00f3dot (\u00e9s hozz\u00e1j\u00e1rulhat, ha \u00fagy \u00e9rzi):\n\nhttps://gitlab.com/juanitobananas/scrambled-exif\n\n<b>Ford\u00edt\u00e1sok</b>\n\nHa seg\u00edts\u00e9get k\u00edv\u00e1n ny\u00fajtani z alkalmaz\u00e1snak a saj\u00e1t nyelv\u00e9re t\u00f6rt\u00e9n\u0151 leford\u00edt\u00e1s\u00e1hoz, a transifex seg\u00edts\u00e9g\u00e9vel teheti meg:\n\nhttps://www.transifex.com/juanitobananas/scrambled-exif/\n\n<b>Egy\u00e9b dolgok \u00e9s t\u00e9nyek</b>\n\n\u2605 Alapvet\u0151en az Exif-et a jpeg haszn\u00e1lja, \u00e9s ez az a form\u00e1tum, amiben az Android f\u00e9nyk\u00e9pez\u0151g\u00e9pe k\u00e9peket ment. Ha t\u00f6bbet szeretne megtudni az Exif-r\u0151l, ellen\u0151rizze a Wikip\u00e9di\u00e1t.\n\n\u2605 Scrambled Exif \u00e1t is nevezi a f\u00e1jlokat.\n\n\u2605 Ne t\u00e1maszkodjon er\u0151sen arra, hogy az adatok mindig t\u00f6r\u00f6lve lettek. Scrambled Exif el\u00e9g j\u00f3l m\u0171k\u00f6dik, de lehet sikertelen. Mindig ellen\u0151rizze megoszt\u00e1s el\u0151tt a k\u00e9peit.\n\n\u2605 Nem igaz\u00e1n <i>keveri</i> az Exif adatokat, hanem t\u00f6rli azokat(scramble=keverni/habarni). Teh\u00e1t a n\u00e9v val\u00f3sz\u00edn\u0171leg bugyuta. De nekem tetszik. Az ikon sem \u00e1br\u00e1zolja a r\u00e1ntott\u00e1t(scrambled eggs = r\u00e1ntotta). Az ikon val\u00f3sz\u00edn\u0171leg bugyuta. De nekem tetszik. \u00c9s \u00e9n hatalmas rajong\u00f3ja vagyok a toj\u00e1snak. Teh\u00e1t ez az alkalmaz\u00e1s nem csak h\u00fclye nevet \u00e9s ugyanolyan h\u00fclye ikont tartalmaz, hanem az \u00e9n (nem h\u00fclye) tiszteletemet a toj\u00e1snak. K\u00fcl\u00f6n\u00f6sen a <i>huevos fritos</i>. Mert szeretem \u0151ket.\n\n\u2605 J\u00f3 sz\u00f3rakoz\u00e1st a k\u00e9pek megoszt\u00e1s\u00e1hoz!",
+          "summary": "T\u00e1vol\u00edtsa el a metaadatokat a k\u00e9peir\u0151l miel\u0151tt megosztan\u00e1 \u0151ket"
+        },
+        "it-IT": {
+          "description": "Scrambled Exif (pronunciato <i>egg</i>sif) ti aiuta a rimuovere i metadati nelle tue immagini prima di condividerle.\n\nSe ne hai voglia.\n\nSe non vuoi che le grandi aziende di Internet (o chiunque altro) sappiano dove sono state scattate le tue foto, non dimenticare di rimuoverne i metadati prima di condividerle.\n\nPer rimuovere i metadati da un'immagine, condividila come faresti normalmente e scegli <i>Scrambled Exif</i>. Subito dopo, riapparir\u00e0 la \"finestra\" di condivisione. Ora condividi con l'app con cui volevi farlo inizialmente.\n\nEt voil\u00e0!\n\n<b>Autorizzazioni Android richieste:</b>\n\n\u2605 LETTURA CONTENUTI ARCHIVIO USB per leggere le immagini che le altre app condividono.\n\n<b>Codice sorgente</b>\n\n\u2605 Questa app \u00e8 open source. Puoi dare un'occhiata al codice (e contribuire se ne hai voglia) qui:\n\nhttps://gitlab.com/juanitobananas/scrambled-exif\n\n<b>Traduzioni</b>\n\nSe vuoi aiutare a tradurre questa app nella tua lingua, puoi farlo usando transifex:\n\nhttps://www.transifex.com/juanitobananas/scrambled-exif/\n\n<b>Varie cose e fatti</b>\n\n\u2605 Sostanzialmente, gli Exif sono usati da jpeg, che \u00e8 il formato con cui la fotocamera Android salva le foto. Se vuoi maggiori informazioni sugli Exif, controlla Wikipedia.\n\n\u2605 Scrambled Exif pu\u00f2 anche rinominare i file.\n\n\u2605 Per favore, non fidarti ciecamente dell'eliminazione dei dati. Scrambled Exif fa bene il suo lavoro, ma pu\u00f2 fallire. Controlla sempre due volte prima di condividere.\n\n\u2605 Non <i>strapazza</i> veramente i dati Exif, li elimina. Quindi il nome probabilmente \u00e8 stupido. Ma mi piace. Anche l'icona non rappresenta un uovo strapazzato. Quindi l'icona probabilmente \u00e8 stupida. Ma mi piace. Tra l'altro sono anche un grande fan delle uova. Quindi questa app non ha solo un nome stupido e un'icona altrettanto stupida, \u00e8 anche il mio tributo (non-stupido) alle uova. Specialmente <i>all'occhio di bue</i>. Perch\u00e8 le adoro.\n\n\u2605 Divertiti a condividere le tue immagini!",
+          "summary": "Rimuovi i metadati dalle tue immagini prima di condividerle"
+        },
+        "nl-NL": {
+          "description": "Scrambled Exif helpt u metadata van uw afbeeldingen te verwijderen voordat u die deelt.\n\nAls u dat wilt, tenminste.\n\nAls u niet wilt dat grote internetbedrijven (of wie dan ook) weten waar u uw foto's heeft genomen, vergeet dan niet de metadata ervan te strippen voordat u ze deelt.\n\nOm de metadata uit een afbeelding te verwijderen, deel dan de afbeelding zoals u dat gewoonlijk doet en kies <i>Scrambled Exif</i>. Meteen daarna verschijnt het venster om te delen weer. Kies nu de app waarmee u de afbeelding wilt delen.\n\nTadaa!\n\n<b>Benodigde Android-toestemmingen:</b>\n\n\u2605 READ_EXTERNAL_STORAGE om te afbeeldingen uit te lezen.\n\n<b>Broncode:</b>\n\n\u2605 De broncode van deze app is openbaar. U kunt de broncode hier bekijken (of eraan bijdragen, als u dat wilt): \n\nhttps://gitlab.com/juanitobananas/scrambled-exif\n\n<b>Vertalingen</b>\n\nAls u wilt helpen deze app te vertalen naar uw eigen taal, dan kunt dat doen met transifex:\n\nhttps://www.transifex.com/juanitobananas/scrambled-exif/\n\n<b>Verdere opmerkingen en feitjes:</b>\n\n\u2605 Exif wordt gebruikt door jpeg, wat het formaat is waarin de Android camera foto's opslaat. Als u meer wilt weten over Exif, zie de Wikipedia-pagina.\n\n\u2605 Scrambled Exif verandert ook de bestandsnaam.\n\n\u2605 Zorg dat u niet te afhankelijk bent van deze app. Scrambled Exif werkt goed, maar soms kan het mislukken. Controleer altijd de afbeelding voordat u die deelt.\n\n\u2605 De app husselt (<i>scrambles</i>) de Exif-data eigenlijk niet, maar verwijdert het. Dus de naam is eigenlijk dom. Maar ik vind hem leuk. Het logo laat overigens ook niet een roerei (scrambled egg) zien, dus het logo slaat eigenlijk ook nergens op. Maar ik vind het leuk. Ik ben trouwens verzot op eieren. Dus deze app heeft niet alleen een domme naam en een dom logo, maar het is ook mijn hulde aan eieren. Al helemaal <i>huevos fritos</i>, die zijn geweldig.\n\n\u2605 Veel plezier met het delen van je afbeeldingen!",
+          "summary": "Verwijder de metadata van afbeeldingen voordat u die deelt"
+        },
+        "pl-PL": {
+          "description": "Scrambled Exif (wymawiane <i>egg</i>sif) pomaga w usuwaniu metadanych z twoich zdj\u0119\u0107 zanim je udost\u0119pnisz. \n\nJe\u015bli masz ochot\u0119.\n\nJe\u015bli nie chcesz, \u017ceby du\u017ce firmy internetowe (czy ktokolwiek) wiedzia\u0142 gdzie twoje zdj\u0119cia by\u0142y zrobione, nie zapomnij usun\u0105\u0107 z nich metadane zanim je udost\u0119pnisz.\n\nAby usun\u0105\u0107 matadane z twojego zdj\u0119cia, po prostu udost\u0119pnij je tak jak zawsze i wybierz <i>Scrambled Exif</i>. Po chwili okno udost\u0119pniania pojawi si\u0119 po raz drugi. Teraz udost\u0119pnij twoje zdj\u0119cia z aplikacj\u0105, z kt\u00f3r\u0105 chcia\u0142e\u015b to zrobi\u0107 na pocz\u0105tku.\n\nEt voil\u00e0!\n\n<b>Wymagane pozwolenia Androida:</b>\n\n\u2605 READ_EXTERNAL_STORAGE \u017ceby czyta\u0107 zdj\u0119cia, kt\u00f3re inne aplikacje udost\u0119pniaj\u0105.\n\n<b>Kod \u0179r\u00f3d\u0142owy</b>\n\n\u2605 Ta aplikacja jest open source. Mo\u017cesz zobaczy\u0107 kod \u017ar\u00f3d\u0142owy (i wnie\u015b\u0107 do niego sw\u00f3j wk\u0142ad je\u015bli masz ochot\u0119) tutaj:\n\nhttps://gitlab.com/juanitobananas/scrambled-exif\n\n<b>T\u0142umaczenia</b>\n\nJe\u015bli chcesz pom\u00f3c przet\u0142umaczy\u0107 t\u0105 aplikacje na sw\u00f3j j\u0119zyk, to mo\u017cesz to zrobi\u0107 za pomoc\u0105 transifex:\n\nhttps://www.transifex.com/juanitobananas/scrambled-exif/\n\n<b>R\u00f3\u017cne informacje i fakty</b>\n\n\u2605 W skr\u00f3cie, Exif jest u\u017cywany przez jpeg, format, w kt\u00f3rym Aparat Androida zapisuje zdj\u0119cia. Je\u015bli chcesz si\u0119 dowiedzie\u0107 wi\u0119cej o Exif, sprawd\u017a artyku\u0142 na Wikipedii.\n\n\u2605 Scrambled Exif tak\u017ce zmienia nazwy plik\u00f3w.\n\n\u2605 Nie polegaj zbyt mocno na tym, \u017ce aplikacja usunie wszystkie dane. Scrambled Exif ca\u0142kiem nie\u017ale wykonuje swoj\u0105 robot\u0119, ale zawsze mo\u017ce mu si\u0119 nie uda\u0107. Zawsze sprawd\u017a dwa razy zanim udost\u0119pnisz. \n\n\u2605 Aplikacja tak naprawd\u0119 nie <i>miesza</i> (ang. Scramble - miesza\u0107) danych Exif, tylko je usuwa. Wi\u0119c na nazwa jest pewnie g\u0142upia. Ale ja j\u0105 lubi\u0119. Ikonka te\u017c nie pokazuje pomieszanych jajek. Wi\u0119c ikonka te\u017c jest g\u0142upia. Ale ja j\u0105 lubi\u0119. I tak si\u0119 sk\u0142ada, \u017ce jestem te\u017c wielkim fanem jajek. Wi\u0119c ta aplikacja ma nie tylko g\u0142upi\u0105 nazw\u0119 i r\u00f3wnie g\u0142upi\u0105 ikonk\u0119, jest te\u017c moim (nieg\u0142upim) ho\u0142dem dla jajek. Zw\u0142aszcza <i> jajek sadzonych</i>. Bo je uwielbiam.\n\n\u2605 Mi\u0142ego udost\u0119pniania zdj\u0119\u0107!",
+          "summary": "Usu\u0144 metadane z twoich zdj\u0119\u0107 przed udost\u0119pnieniem ich"
+        },
+        "pt-BR": {
+          "description": "Scrambled Exif (pronuncia-se <i>egg</i>sif) ajuda-o a remover os metadados das suas imagens antes de compartilh\u00e1-las\n\nSe voc\u00ea quiser.\n\nSe voc\u00ea n\u00e3o quiser que as grandes empresas da Internet (ou quem) saiba onde suas fotos foram tiradas, lembre-se de remover os metadados deles antes de compartilh\u00e1-los.\n\nPara remover os metadados de uma imagem, simplesmente compartilhe-os como faria normalmente e escolha <i>Scrambled Exif</i>. Um momento depois, o di\u00e1logo de compartilhamento reaparecer\u00e1. Agora, basta compartilhar com o aplicativo com o qual voc\u00ea pretende compartilhar.\n\nE voil\u00e0!\n\n<b>Permiss\u00f5es necess\u00e1rias do Android:</b>\n\n\u2605 READ_EXTERNAL_STORAGE para ler as imagens que outros aplicativos compartilham com ele.\n\n<b>C\u00f3digo Fonte</b>\n\n\u2605 Este aplicativo \u00e9 de c\u00f3digo aberto. Voc\u00ea pode dar uma olhada no c\u00f3digo (e contribuir se quiser) aqui:\n\nhttps://gitlab.com/juanitobananas/scrambled-exif\n\n<b>Tradu\u00e7\u00f5es</b>\n\nSe voc\u00ea quiser ajudar a traduzir este aplicativo para o seu pr\u00f3prio idioma, voc\u00ea pode faz\u00ea-lo usando transifex:\n\nhttps://www.transifex.com/juanitobananas/scrambled-exif/\n\n<b>Coisas Diversas e Fatos</b>\n\n\u2605 Basicamente, o Exif \u00e9 usado pelo jpeg, que \u00e9 o formato no qual a sua c\u00e2mera Android salva imagens. Se voc\u00ea quiser saber mais sobre o Exif, verifique a Wikipedia.\n\n\u2605 Exif Scrambled tamb\u00e9m renomeia os arquivos.\n\n\u2605 Por favor, n\u00e3o confie fortemente nos dados que est\u00e3o sendo exclu\u00eddos. Scrambled Exif faz o seu trabalho muito bem, mas pode falhar. Sempre verifique novamente antes de compartilhar.\n\n\u2605 Realmente n\u00e3o <i>scramble</i> os dados Exif, apaga-os. Ent\u00e3o o nome \u00e9 provavelmente idiota. Mas eu gosto. O \u00edcone tamb\u00e9m n\u00e3o mostra ovos mexidos. Ent\u00e3o o \u00edcone \u00e9 provavelmente idiota. Mas eu gosto. E tamb\u00e9m sou f\u00e3 de ovos. Ent\u00e3o este aplicativo n\u00e3o tem apenas um nome est\u00fapido e um \u00edcone igualmente est\u00fapido, \u00e9 tamb\u00e9m meu tributo (n\u00e3o est\u00fapido) aos ovos. Especialmente <i>huevos fritos</i>. Porque eu amo eles.\n\n\u2605 Divirta-se compartilhando suas fotos!",
+          "summary": "Remova os metadados de suas fotos antes de compartilh\u00e1-los"
+        },
+        "ru-RU": {
+          "description": "Scrambled Exif (\u043f\u0440\u043e\u0438\u0437\u043d\u043e\u0441\u0438\u0442\u0441\u044f \u044d\u0433\u0437\u0438\u0444) \u043f\u043e\u043c\u043e\u0436\u0435\u0442 \u0443\u0434\u0430\u043b\u0438\u0442\u044c \u043c\u0435\u0442\u0430\u0434\u0430\u043d\u043d\u044b\u0435 \u0438\u0437 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0439, \u043f\u0440\u0435\u0436\u0434\u0435 \u0447\u0435\u043c \u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u0438\u043c\u0438.\n\n\u0415\u0441\u043b\u0438 \u0432\u0430\u043c \u0442\u0430\u043a \u0445\u043e\u0447\u0435\u0442\u0441\u044f.\n\n\u0415\u0441\u043b\u0438 \u0432\u044b \u043d\u0435 \u0445\u043e\u0442\u0438\u0442\u0435, \u0447\u0442\u043e\u0431\u044b \u043a\u0440\u0443\u043f\u043d\u044b\u0435 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 (\u0438\u043b\u0438 \u043a\u0442\u043e \u0431\u044b \u0442\u043e \u043d\u0438 \u0431\u044b\u043b\u043e) \u0437\u043d\u0430\u043b\u0438, \u0433\u0434\u0435 \u0431\u044b\u043b\u0438 \u0441\u0434\u0435\u043b\u0430\u043d\u044b \u0432\u0430\u0448\u0438 \u0441\u043d\u0438\u043c\u043a\u0438, \u043d\u0435 \u0437\u0430\u0431\u0443\u0434\u044c\u0442\u0435 \u0443\u0434\u0430\u043b\u0438\u0442\u044c \u043c\u0435\u0442\u0430\u0434\u0430\u043d\u043d\u044b\u0435 \u0438\u0437 \u043d\u0438\u0445, \u043f\u0440\u0435\u0436\u0434\u0435 \u0447\u0435\u043c \u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u0438\u043c\u0438.\n\n\u0427\u0442\u043e\u0431\u044b \u0443\u0434\u0430\u043b\u0438\u0442\u044c \u043c\u0435\u0442\u0430\u0434\u0430\u043d\u043d\u044b\u0435 \u0438\u0437 \u043a\u0430\u0440\u0442\u0438\u043d\u043a\u0438, \u043f\u0440\u043e\u0441\u0442\u043e \u043f\u043e\u0434\u0435\u043b\u0438\u0442\u0435\u0441\u044c \u0435\u044e, \u043a\u0430\u043a \u043e\u0431\u044b\u0447\u043d\u043e, \u0438 \u0432\u044b\u0431\u0435\u0440\u0438\u0442\u0435 <i>Scrambled Exif</i>. \u041c\u0433\u043d\u043e\u0432\u0435\u043d\u0438\u0435 \u0441\u043f\u0443\u0441\u0442\u044f \u0441\u043d\u043e\u0432\u0430 \u043f\u043e\u044f\u0432\u0438\u0442\u0441\u044f \u0434\u0438\u0430\u043b\u043e\u0433\u043e\u0432\u043e\u0435 \u043e\u043a\u043d\u043e \u00ab\u041f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f\u00bb. \u0422\u0435\u043f\u0435\u0440\u044c \u043f\u043e\u0434\u0435\u043b\u0438\u0442\u0435\u0441\u044c \u0441 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435\u043c, \u0441 \u043a\u043e\u0442\u043e\u0440\u044b\u043c \u0432\u044b \u0445\u043e\u0442\u0435\u043b\u0438 \u043f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u0432 \u043f\u0435\u0440\u0432\u0443\u044e \u043e\u0447\u0435\u0440\u0435\u0434\u044c.\n\n\u0418 \u0432\u0443\u0430\u043b\u044f!\n\n<b>\u0422\u0440\u0435\u0431\u0443\u0435\u043c\u044b\u0435 \u0440\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u0438\u044f Android</b>\n\n\u2605 \u0427\u0418\u0422\u0410\u0422\u042c_\u0412\u041d\u0415\u0428\u041d\u0415\u0415_\u0425\u0420\u0410\u041d\u0418\u041b\u0418\u0429\u0415, \u0434\u043b\u044f \u0434\u043e\u0441\u0442\u0443\u043f\u0430 \u043a \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u044f\u043c\n\n <b>\u0418\u0441\u0445\u043e\u0434\u043d\u044b\u0439 \u043a\u043e\u0434</b>\n\n\u2605 \u042d\u0442\u043e \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0441 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u043c \u0438\u0441\u0445\u043e\u0434\u043d\u044b\u043c \u043a\u043e\u0434\u043e\u043c. \u0412\u0437\u0433\u043b\u044f\u043d\u0443\u0442\u044c \u043d\u0430 \u043d\u0435\u0433\u043e (\u0438 \u0432\u043d\u0435\u0441\u0442\u0438 \u0441\u0432\u043e\u0439 \u0432\u043a\u043b\u0430\u0434, \u0435\u0441\u043b\u0438 \u0445\u043e\u0442\u0438\u0442\u0435) \u043c\u043e\u0436\u043d\u043e \u0437\u0434\u0435\u0441\u044c:\n\n https://gitlab.com/juanitobananas/scrambled-exif\n\n<b>\u041f\u0435\u0440\u0435\u0432\u043e\u0434\u044b</b>\n\n\u041f\u043e\u043c\u043e\u0447\u044c \u043f\u0435\u0440\u0435\u0432\u0435\u0441\u0442\u0438 \u044d\u0442\u043e \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043d\u0430 \u0432\u0430\u0448 \u044f\u0437\u044b\u043a, \u043c\u043e\u0436\u043d\u043e \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e transifex:\n\nhttps://www.transifex.com/juanitobananas/scrambled-exif/\n\n<b>\u0420\u0430\u0437\u043d\u043e\u0435</b>\n\n\u2605 \u0412 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u043c, Exif \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0444\u043e\u0440\u043c\u0430\u0442\u043e\u043c jpeg, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u043c Android \u043a\u0430\u043c\u0435\u0440\u0430 \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0438. \u0423\u0437\u043d\u0430\u0442\u044c \u0431\u043e\u043b\u044c\u0448\u0435 \u043e\u0431 Exif \u043c\u043e\u0436\u043d\u043e \u0432 \u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u0438.\n\n\u2605 Scrambled Exif \u0442\u0430\u043a\u0436\u0435 \u043f\u0435\u0440\u0435\u0438\u043c\u0435\u043d\u043e\u0432\u044b\u0432\u0430\u0435\u0442 \u0444\u0430\u0439\u043b\u044b.\n\n\u2605 \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043d\u0435 \u0441\u0438\u043b\u044c\u043d\u043e \u043f\u043e\u043b\u0430\u0433\u0430\u0439\u0442\u0435\u0441\u044c \u043d\u0430 \u0443\u0434\u0430\u043b\u044f\u0435\u043c\u044b\u0435 \u0434\u0430\u043d\u043d\u044b\u0435. Scrambled Exif \u0434\u0435\u043b\u0430\u0435\u0442 \u0441\u0432\u043e\u044e \u0440\u0430\u0431\u043e\u0442\u0443 \u0434\u043e\u0432\u043e\u043b\u044c\u043d\u043e \u0445\u043e\u0440\u043e\u0448\u043e, \u043d\u043e \u043c\u043e\u0436\u0435\u0442 \u043f\u043e\u0442\u0435\u0440\u043f\u0435\u0442\u044c \u043d\u0435\u0443\u0434\u0430\u0447\u0443. \u0412\u0441\u0435\u0433\u0434\u0430 \u043f\u0435\u0440\u0435\u043f\u0440\u043e\u0432\u0435\u0440\u044f\u0439\u0442\u0435, \u043f\u0440\u0435\u0436\u0434\u0435 \u0447\u0435\u043c \u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f.\n\n\u2605 \u042d\u0442\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u043d\u0430 \u0441\u0430\u043c\u043e\u043c \u0434\u0435\u043b\u0435 \u043d\u0435 <i>\u0441\u043a\u0440\u0435\u043c\u0431\u043b\u0438\u0440\u0443\u0435\u0442</i> Exif \u0434\u0430\u043d\u043d\u044b\u0435, \u0430 \u0443\u0434\u0430\u043b\u044f\u0435\u0442 \u0438\u0445. \u0422\u0430\u043a \u0447\u0442\u043e \u0438\u043c\u044f, \u043d\u0430\u0432\u0435\u0440\u043d\u043e\u0435, \u0433\u043b\u0443\u043f\u043e\u0435. \u041d\u043e \u043c\u043d\u0435 \u043e\u043d\u043e \u043d\u0440\u0430\u0432\u0438\u0442\u0441\u044f \u044d\u0442\u043e. \u0417\u043d\u0430\u0447\u043e\u043a \u043d\u0435 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u044f\u0438\u0447\u043d\u0438\u0446\u0443-\u0431\u043e\u043b\u0442\u0443\u043d\u044c\u044e. \u0417\u043d\u0430\u0447\u0438\u0442, \u0438 \u0438\u043a\u043e\u043d\u0430, \u043d\u0430\u0432\u0435\u0440\u043d\u043e\u0435, \u0433\u043b\u0443\u043f\u0430\u044f. \u041d\u043e \u043c\u043d\u0435 \u043e\u043d\u0430 \u043d\u0440\u0430\u0432\u0438\u0442\u0441\u044f. \u0412\u043e\u043e\u0431\u0449\u0435 \u044f \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u043f\u043e\u043a\u043b\u043e\u043d\u043d\u0438\u043a \u044f\u0438\u0446. \u0422\u0430\u043a \u0447\u0442\u043e \u0443 \u044d\u0442\u043e\u0433\u043e \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0435\u0441\u0442\u044c \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u0433\u043b\u0443\u043f\u044b\u0435 \u0438\u043c\u044f \u0438 \u0437\u043d\u0430\u0447\u043e\u043a, \u043d\u043e \u0438 \u043c\u043e\u044f (\u043d\u0435 \u0433\u043b\u0443\u043f\u0430\u044f) \u0434\u0430\u043d\u044c \u044f\u0439\u0446\u0430\u043c. \u041e\u0441\u043e\u0431\u0435\u043d\u043d\u043e <i>huevos fritos</i>. \u041f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u044f \u043b\u044e\u0431\u043b\u044e \u0438\u0445.\n\n\u2605 \u0420\u0430\u0434\u0443\u0439\u0442\u0435\u0441\u044c, \u0434\u0435\u043b\u044f\u0441\u044c \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f\u043c\u0438!",
+          "summary": "\u0423\u0434\u0430\u043b\u0438\u0442\u0435 \u043c\u0435\u0442\u0430\u0434\u0430\u043d\u043d\u044b\u0435 \u0438\u0437 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0439, \u043f\u0440\u0435\u0436\u0434\u0435 \u0447\u0435\u043c \u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u0438\u043c\u0438"
+        },
+        "sv-SE": {
+          "description": "Scrambled Exif (uttalas <i>\u00e4gg</i> hj\u00e4lper dig radera metadatan fr\u00e5n dina bilder innan du delar dem.\n\nOm du k\u00e4nner f\u00f6r det.\n\nOm du inte vill att de stora internetbolagen (eller vem som helst) ska veta var dina foton har tagits, gl\u00f6m inte att radera metadatan innan du delar dem.\n\nF\u00f6r att radera metadatan fr\u00e5n en bild, dela det som du skulle ha gjort i vanliga fall och v\u00e4lj <i>Scrambled Exif</i>. Ett \u00f6gonblick senare kommer \"delnings\"-rutan att dyka upp igen. Nu \u00e4r det bara att dela bilden genom appen som du hade t\u00e4nkt dela med fr\u00e5n b\u00f6rjan.\n\nEt voil\u00e0!\n\n<b>N\u00f6dv\u00e4ndiga beh\u00f6righeter:</b>\n\n\u2605 L\u00c4SA_EXTERN_LAGRING f\u00f6r att l\u00e4sa bilderna som andra appar delar med den.\n\n<b>K\u00e4llkod</b>\n\n\u2605 Denna app \u00e4r \u00f6ppen k\u00e4llkod. Du kan ta en titt p\u00e5 koden (och bidra om du k\u00e4nner f\u00f6r det) h\u00e4r:\n\nhttps://gitlab.com/juanitobananas/scrambled-exif\n\n<b>\u00d6vers\u00e4ttningar</b>\n\nOm du vill hj\u00e4lpa till att \u00f6vers\u00e4tta denna app till ditt eget spr\u00e5k kan du g\u00f6ra det genom att anv\u00e4nda transifex:\n\nhttps://www.transifex.com/juanitobananas/scrambled-exif/\n\n<b>Blandade grejer och fakta</b>\n\n\u2605 Kortfattat anv\u00e4nds Exif av jpeg, vilket \u00e4r ett format som din Android-kamera anv\u00e4nder f\u00f6r att spara foton. Om du vill veta mer om Exif, kolla Wikipedia.\n\n\u2605 Scrambled Exif ger \u00e4ven filerna nya namn.\n\n\u2605 Lita inte alltf\u00f6r mycket p\u00e5 att datan helt raderas. Scrambled Exif g\u00f6r jobbet r\u00e4tt bra, men den skulle kunna misslyckas. Dubbelkolla alltid innan du delar.\n\n\u2605 Den <i>blandar</i> egentligen inte Exif-datan, den raderar den. S\u00e5 namnet \u00e4r f\u00f6rmodligen dumt. Men jag gillar det. Ikonen f\u00f6rest\u00e4ller inte \u00e4ggr\u00f6ra heller. S\u00e5 ikonen \u00e4r nog dum. Men jag gillar den. Och jag r\u00e5kar vara ett stort \u00e4ggfan. S\u00e5 denna app har inte bara ett dumt namn och en lika dum ikon, det \u00e4r ocks\u00e5 min (ickedumma) hyllning till \u00e4gg. S\u00e4rskilt <i>stekta \u00e4gg</i>. F\u00f6r jag \u00e4lskar dem.\n\n\u2605 Ha s\u00e5 kul med att dela dina bilder!",
+          "summary": "Radera metadatan fr\u00e5n dina bilder innan du delar dem"
+        },
+        "uk": {
+          "description": "\u0421\u043c\u0430\u0436\u0435\u043d\u0438\u0439 Exif \u0434\u043e\u043f\u043e\u043c\u0430\u0433\u0430\u0454 \u0432\u0438\u0434\u0430\u043b\u0438\u0442\u0438 \u043c\u0435\u0442\u0430\u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044e \u0437 \u0432\u0430\u0448\u0438\u0445 \u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u044c \u043f\u0435\u0440\u0435\u0434 \u0442\u0438\u043c, \u044f\u043a \u0432\u0438 \u043d\u0438\u043c\u0438 \u043f\u043e\u0434\u0456\u043b\u0438\u0442\u0435\u0441\u044f.\n\n\u042f\u043a\u0449\u043e \u0432\u0430\u043c \u0446\u0435 \u043f\u043e\u0434\u043e\u0431\u0430\u0454\u0442\u044c\u0441\u044f.\n\n\u042f\u043a\u0449\u043e \u0432\u0438 \u043d\u0435 \u0445\u043e\u0447\u0435\u0442\u0435, \u0449\u043e\u0431 \u0432\u0435\u043b\u0438\u043a\u0456 \u0406\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043a\u043e\u043c\u043f\u0430\u043d\u0456\u0457 (\u0430\u0431\u043e \u0431\u0443\u0434\u044c-\u0445\u0442\u043e \u0456\u043d\u0448\u0438\u0439) \u0437\u043d\u0430\u043b\u0438, \u0434\u0435 \u0432\u0438 \u0437\u0440\u043e\u0431\u0438\u043b\u0438 \u0432\u0430\u0448\u0456 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0456\u0457, \u043d\u0435 \u0437\u0430\u0431\u0443\u0432\u0430\u0439\u0442\u0435 \u0432\u0438\u0434\u0430\u043b\u044f\u0442\u0438 \u0437 \u043d\u0438\u0445 \u043c\u0435\u0442\u0430\u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044e \u043f\u0435\u0440\u0435\u0434 \u0442\u0438\u043c, \u044f\u043a \u043f\u043e\u0434\u0456\u043b\u0438\u0442\u0438\u0441\u044f.\n\n\u0429\u043e\u0431 \u0432\u0438\u0434\u0430\u043b\u0438\u0442\u0438 \u043c\u0435\u0442\u0430\u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044e \u0437 \u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u043d\u044f, \u043f\u0440\u043e\u0441\u0442\u043e \u043f\u043e\u0434\u0456\u043b\u0456\u0442\u044c\u0441\u044f \u043d\u0438\u043c, \u044f\u043a \u0432\u0438 \u0437\u0430\u0437\u0432\u0438\u0447\u0430\u0439 \u0446\u0435 \u0440\u043e\u0431\u0438\u0442\u0435, \u0442\u0430 \u043e\u0431\u0435\u0440\u0456\u0442\u044c <i>\u0421\u043c\u0430\u0436\u0435\u043d\u0438\u0439 Exif</i>. \u0427\u0435\u0440\u0435\u0437 \u043c\u0438\u0442\u044c \u0434\u0456\u0430\u043b\u043e\u0433 \"\u041f\u043e\u0434\u0456\u043b\u0438\u0442\u0438\u0441\u044f\" \u0437'\u044f\u0432\u0438\u0442\u044c\u0441\u044f \u0437\u043d\u043e\u0432. \u0422\u0435\u043f\u0435\u0440 \u043f\u0440\u043e\u0441\u0442\u043e \u043f\u043e\u0434\u0456\u043b\u0456\u0442\u044c\u0441\u044f \u0437 \u0442\u0438\u043c \u0434\u043e\u0434\u0430\u0442\u043a\u043e\u043c, \u0432 \u044f\u043a\u0438\u0439 \u0432\u0438 \u0445\u043e\u0442\u0456\u043b\u0438 \u043f\u0435\u0440\u0435\u0434\u0430\u0442\u0438 \u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u043d\u044f \u0441\u043f\u043e\u0447\u0430\u0442\u043a\u0443.\n\n\u0412\u0443\u0430\u043b\u044f!\n\n<b>\u041d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u0456 \u0434\u043e\u0437\u0432\u043e\u043b\u0438:</b>\n\n\u2605 READ_EXTERNAL_STORAGE - \u0449\u043e\u0431 \u0447\u0438\u0442\u0430\u0442\u0438 \u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u043d\u044f, \u044f\u043a\u0438\u043c\u0438 \u0456\u043d\u0448\u0456 \u0434\u043e\u0434\u0430\u0442\u043a\u0438 \u0434\u0456\u043b\u044f\u0442\u044c\u0441\u044f \u0437 \u0446\u0438\u043c \u0434\u043e\u0434\u0430\u0442\u043a\u043e\u043c.\n\n<b>\u0414\u0436\u0435\u0440\u0435\u043b\u044c\u043d\u0438\u0439 \u043a\u043e\u0434</b>\n\n\u2605 \u0426\u0435 \u0434\u043e\u0434\u0430\u0442\u043e\u043a \u0437 \u0432\u0456\u0434\u043a\u0440\u0438\u0442\u0438\u043c \u0434\u0436\u0435\u0440\u0435\u043b\u044c\u043d\u0438\u043c \u043a\u043e\u0434\u043e\u043c. \u0412\u0438 \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u0435\u0440\u0435\u0433\u043b\u044f\u043d\u0443\u0442\u0438 \u043a\u043e\u0434 (\u0456 \u0434\u043e\u0434\u0430\u0442\u0438 \u0449\u043e\u0441\u044c \u0434\u043e \u043d\u044c\u043e\u0433\u043e, \u044f\u043a\u0449\u043e \u0432\u0430\u043c \u0446\u0435 \u043f\u043e\u0434\u043e\u0431\u0430\u0454\u0442\u044c\u0441\u044f) \u0442\u0443\u0442:\n\nhttps://gitlab.com/juanitobananas/scrambled-exif\n\n<b>\u041f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438</b>\n\n\u042f\u043a\u0449\u043e \u0432\u0438 \u0431\u0430\u0436\u0430\u0454\u0442\u0435 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0442\u0438 \u0437 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u043e\u043c \u0446\u044c\u043e\u0433\u043e \u0434\u043e\u0434\u0430\u0442\u043a\u0443 \u043d\u0430 \u0432\u0430\u0448\u0443 \u043c\u043e\u0432\u0443, \u043c\u043e\u0436\u0435\u0442\u0435 \u0437\u0440\u043e\u0431\u0438\u0442\u0438 \u0446\u0435 \u0447\u0435\u0440\u0435\u0437 transifex:\n\nhttps://www.transifex.com/juanitobananas/scrambled-exif/\n\n<b>\u0420\u0456\u0437\u043d\u0435 \u0456 \u0424\u0430\u043a\u0442\u0438</b>\n\n\u2605 \u0412 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u043c\u0443, Exif \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0444\u043e\u0440\u043c\u0430\u0442\u043e\u043c jpeg, \u0443 \u044f\u043a\u043e\u043c\u0443 \u043a\u0430\u043c\u0435\u0440\u0430 \u0432\u0430\u0448\u043e\u0433\u043e Android-\u043f\u0440\u0438\u0441\u0442\u0440\u043e\u044e \u0437\u0431\u0435\u0440\u0456\u0433\u0430\u0454 \u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u043d\u044f. \u042f\u043a\u0449\u043e \u0445\u043e\u0447\u0435\u0442\u0435 \u0434\u0456\u0437\u043d\u0430\u0442\u0438\u0441\u044f \u0431\u0456\u043b\u044c\u0448\u0435 \u043f\u0440\u043e Exif, \u043f\u0435\u0440\u0435\u0433\u043b\u044f\u043d\u044c\u0442\u0435 Wikipedia.\n\n\u2605 \u0421\u043c\u0430\u0436\u0435\u043d\u0438\u0439 Exif \u0442\u0430\u043a\u043e\u0436 \u043f\u0435\u0440\u0435\u0439\u043c\u0435\u043d\u043e\u0432\u0443\u0454 \u0444\u0430\u0439\u043b\u0438.\n\n\u2605 \u041d\u0435 \u0432\u0430\u0440\u0442\u043e \u043f\u043e\u0432\u043d\u0456\u0441\u0442\u044e \u043f\u043e\u043a\u043b\u0430\u0434\u0430\u0442\u0438\u0441\u044f \u043d\u0430 \u0432\u0438\u0434\u0430\u043b\u0435\u043d\u043d\u044f \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457. \u0421\u043c\u0430\u0436\u0435\u043d\u0438\u0439 Exif \u0440\u043e\u0431\u0438\u0442\u044c \u0441\u0432\u043e\u044e \u0440\u043e\u0431\u043e\u0442\u0443 \u0434\u043e\u0441\u0438\u0442\u044c \u0434\u043e\u0431\u0440\u0435, \u043f\u0440\u043e\u0442\u0435 \u043c\u043e\u0436\u0435 \u0456 \u043d\u0435 \u0432\u043f\u043e\u0440\u0430\u0442\u0438\u0441\u044f. \u0417\u0430\u0432\u0436\u0434\u0438 \u043f\u0435\u0440\u0435\u0432\u0456\u0440\u044f\u0439\u0442\u0435 \u0434\u0432\u0456\u0447\u0456 \u043f\u0435\u0440\u0435\u0434 \u0442\u0438\u043c, \u044f\u043a \u043f\u043e\u0434\u0456\u043b\u0438\u0442\u0438\u0441\u044f \u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u043d\u044f\u043c.\n\n\u2605 \u0414\u043e\u0434\u0430\u0442\u043e\u043a \u043d\u0430\u0441\u043f\u0440\u0430\u0432\u0434\u0456 \u043d\u0435 <i>\u0441\u043c\u0430\u0436\u0438\u0442\u044c</i> Exif-\u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044e - \u0432\u0456\u043d \u0457\u0457 \u0432\u0438\u0434\u0430\u043b\u044f\u0454. \u0422\u043e\u043c\u0443 \u043d\u0430\u0437\u0432\u0430, \u0439\u043c\u043e\u0432\u0456\u0440\u043d\u043e, \u043d\u0435\u0434\u043e\u043b\u0443\u0433\u0430. \u041f\u0440\u043e\u0442\u0435 \u043c\u0435\u043d\u0456 \u043f\u043e\u0434\u043e\u0431\u0430\u0454\u0442\u044c\u0441\u044f. \u041f\u0456\u043a\u0442\u043e\u0433\u0440\u0430\u043c\u0430 \u0442\u0430\u043a\u043e\u0436 \u043d\u0435 \u0437\u043e\u0431\u0440\u0430\u0436\u0443\u0454 \u044f\u0454\u0447\u043d\u044e. \u0422\u043e\u043c\u0443 \u043f\u0456\u043a\u0442\u043e\u0433\u0440\u0430\u043c\u0430, \u0439\u043c\u043e\u0432\u0456\u0440\u043d\u043e, \u043d\u0435\u0434\u043e\u043b\u0443\u0433\u0430. \u041f\u0440\u043e\u0442\u0435 \u043c\u0435\u043d\u0456 \u043f\u043e\u0434\u043e\u0431\u0430\u0454\u0442\u044c\u0441\u044f. \u0406 \u0442\u0430\u043a\u043e\u0436 \u0442\u0430\u043a \u0441\u0442\u0430\u043b\u043e\u0441\u044f, \u0449\u043e \u044f \u0432\u0435\u043b\u0438\u0447\u0435\u0437\u043d\u0438\u0439 \u043f\u0440\u0438\u0445\u0438\u043b\u044c\u043d\u0438\u043a \u044f\u0454\u0446\u044c. \u0422\u043e\u0436 \u0446\u0435\u0439 \u0434\u043e\u0434\u0430\u0442\u043e\u043a \u043d\u0435 \u0442\u0456\u043b\u044c\u043a\u0438 \u043c\u0430\u0454 \u043d\u0435\u0434\u043e\u043b\u0443\u0433\u0443 \u043d\u0430\u0437\u0432\u0443 \u0456 \u0442\u0430\u043a\u0443 \u0436 \u043d\u0435\u0434\u043e\u043b\u0443\u0433\u0443 \u043f\u0456\u043a\u0442\u043e\u0433\u0440\u0430\u043c\u0443, \u0432\u0456\u043d \u0442\u0430\u043a\u043e\u0436 \u0454 \u043c\u043e\u0454\u044e (\u043d\u0435 \u043d\u0435\u0434\u043e\u043b\u0443\u0433\u043e\u044e) \u0434\u0430\u043d\u0438\u043d\u043e\u044e \u044f\u0439\u0446\u044f\u043c. \u041e\u0441\u043e\u0431\u043b\u0438\u0432\u043e <i>\u044f\u0454\u0447\u043d\u0456</i>. \u0422\u043e\u043c\u0443 \u0449\u043e \u044f \u0457\u0445 \u043b\u044e\u0431\u043b\u044e.\n\n\u2605 \u041e\u0442\u0440\u0438\u043c\u0443\u0439\u0442\u0435 \u0437\u0430\u0434\u043e\u0432\u043e\u043b\u0435\u043d\u043d\u044f, \u043e\u0431\u043c\u0456\u043d\u044e\u044e\u0447\u0438\u0441\u044c \u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u043d\u044f\u043c\u0438!",
+          "summary": "\u0412\u0438\u0434\u0430\u043b\u0456\u0442\u044c \u043c\u0435\u0442\u0430\u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044e \u0437 \u0432\u0430\u0448\u0438\u0445 \u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u044c \u043f\u0435\u0440\u0435\u0434 \u0442\u0438\u043c, \u044f\u043a \u0434\u0456\u043b\u0438\u0442\u0438\u0441\u044f \u043d\u0438\u043c\u0438"
+        }
+      }
+    },
+    {
+      "categories": [
+        "Internet",
+        "Default"
+      ],
+      "suggestedVersionCode": "104400",
+      "description": "Privacy is possible. Signal makes it easy.\n\nUsing Signal, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media or other files all with complete privacy. Signal's servers never have access to any of your communication and never store any of your data.\n\n\u2605 Say Anything. Signal uses an advanced end-to-end encryption protocol to keep your conversations private. Every message, every call, every time.\n\n\u2605 Open Source. Signal is Free and Open Source, enabling anyone to verify its security by auditing the code. Signal is the only private messenger that uses open source peer-reviewed cryptographic protocols to keep your messages and calls safe.\n\n\u2605 Be Yourself - Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose.\n\n\u2605 Group Chat. Signal allows you to create encrypted groups so you can have private conversations with all your friends at once. Not only are the messages encrypted, but the Signal server never has access to any group metadata such as the membership list, group title, or group icon.\n\n\u2605 Fast. The Signal protocol is designed to operate in the most constrained environment possible. Using Signal, messages are instantly delivered to friends.\n\n\u2605 Speak Freely - Make crystal-clear phone calls to people who live across town, or across the ocean, with no long-distance charges.",
+      "issueTracker": "https://support.signal.org/",
+      "license": "GPL-3.0-only",
+      "sourceCode": "https://github.com/signalapp/Signal-Android",
+      "summary": "Signal Private Messenger",
+      "webSite": "https://www.signal.org",
+      "added": 1651517847000,
+      "packageName": "org.thoughtcrime.securesms",
+      "lastUpdated": 1651517847000,
+      "localized": {
+        "en-US": {
+          "icon": "icon.png",
+          "name": "Signal"
+        }
+      }
+    },
+    {
+      "bitcoin": "1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk",
+      "categories": [
+        "Security",
+        "Internet",
+        "Default"
+      ],
+      "suggestedVersionCode": "2015884043",
+      "description": "Tor Browser for Android is the only official mobile browser supported by\nthe Tor Project, developers of the world\u2019s strongest tool for privacy and freedom online.\n\nBLOCK TRACKERS\nTor Browser isolates each website you visit so third-party trackers and ads can\u2019t follow you.\nAny cookies automatically clear when you\u2019re done browsing.",
+      "donate": "https://www.torproject.org/donate/donate.html.en",
+      "flattrID": "5649",
+      "issueTracker": "https://trac.torproject.org/projects/tor/query?status=!closed&keywords=~tbb-mobile",
+      "liberapayID": "33617",
+      "license": "MPL",
+      "summary": "Experience real private browsing without tracking, surveillance, or censorship.",
+      "webSite": "https://www.torproject.org/",
+      "added": 1651517854000,
+      "packageName": "org.torproject.torbrowser",
+      "lastUpdated": 1651517854000,
+      "localized": {
+        "en-US": {
+          "icon": "icon.png",
+          "name": "Tor Browser"
+        }
+      }
+    },
+    {
+      "antiFeatures": [
+        "NonFreeNet"
+      ],
+      "authorEmail": "contact@secuso.org",
+      "authorName": "SECUSO - Security Usability Society",
+      "authorWebSite": "https://secuso.aifb.kit.edu/english/",
+      "categories": [
+        "Multimedia",
+        "Internet",
+        "Default"
+      ],
+      "changelog": "https://github.com/SecUSo/privacy-friendly-weather/blob/HEAD/CHANGELOG.md",
+      "suggestedVersionCode": "15",
+      "description": "Lets you watch the weather for cities and locations. This includes the current\nweather as well as a 5 day / 3 hour forecast. Furthermore, Privacy Friendly\nWeather provides a radius search. This makes it possible to find the locations\naround a given location which have the best weather conditions at the moment.\n\nWeather data is provided by <a href=\"http://openweathermap.org/\">Open Weather Map</a>.\n\nThe app belongs to the group of Privacy Friendly Apps developed at the\n<a href=\"https://secuso.org/\">SECUSO research group</a> of Technische Universitaet\nDarmstadt. It does not require any permission and relinquishes advertisement and\ntracking mechanisms.\n\n''NonFreeNet:'' OpenWeatherMap service itself is not open source.",
+      "issueTracker": "https://github.com/SecUSo/privacy-friendly-weather/issues",
+      "license": "GPL-3.0-only",
+      "sourceCode": "https://github.com/SecUSo/privacy-friendly-weather",
+      "webSite": "https://secuso.org/pfa",
+      "added": 1651517856000,
+      "icon": "org.secuso.privacyfriendlyweather.15.png",
+      "packageName": "org.secuso.privacyfriendlyweather",
+      "lastUpdated": 1651517856000,
+      "localized": {
+        "de": {
+          "summary": "Wetterinformationen und -vorhersagen erhalten"
+        },
+        "en-US": {
+          "icon": "icon.png",
+          "name": "Weather",
+          "summary": "Get weather information and forecast"
+        },
+        "eo": {
+          "summary": "Informoj pri vetero kaj veterprognozo"
+        },
+        "es": {
+          "summary": "Obter informaci\u00f3n y previsi\u00f3n meteorol\u00f3gica"
+        },
+        "fr": {
+          "summary": "Obtenez des informations sur les pr\u00e9visions m\u00e9t\u00e9orologiques"
+        },
+        "he": {
+          "summary": "\u05e7\u05d1\u05dc\u05ea \u05e4\u05e8\u05d8\u05d9 \u05de\u05d6\u05d2 \u05d0\u05d5\u05d5\u05d9\u05e8 \u05d5\u05ea\u05d7\u05d6\u05d9\u05ea"
+        },
+        "is": {
+          "summary": "F\u00e1\u00f0u ve\u00f0url\u00fdsingar og ve\u00f0ursp\u00e1r"
+        },
+        "it": {
+          "summary": "Ottieni informazioni e previsioni meteo"
+        },
+        "nb": {
+          "summary": "Hent v\u00e6rdata og langtidsvarsel"
+        },
+        "nn": {
+          "summary": "Hent v\u00eardata og langtidsvarsel"
+        },
+        "pl": {
+          "summary": "Uzyskaj informacje o prognozie pogody"
+        },
+        "pt": {
+          "summary": "Obter informa\u00e7\u00f5es e previs\u00f5es meteorol\u00f3gicas"
+        },
+        "pt-BR": {
+          "summary": "Obtenha informa\u00e7\u00f5es e previs\u00f5es meteorol\u00f3gicas"
+        },
+        "pt-PT": {
+          "summary": "Obter informa\u00e7\u00f5es e previs\u00f5es meteorol\u00f3gicas"
+        },
+        "ro": {
+          "summary": "Ob\u021bine\u021bi informa\u021bii \u0219i prognoze meteo"
+        },
+        "ru": {
+          "summary": "\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u043e \u043f\u043e\u0433\u043e\u0434\u0435 \u0438 \u043f\u0440\u043e\u0433\u043d\u043e\u0437"
+        },
+        "tr": {
+          "summary": "Hava durumu bilgilerini ve hava tahminini al\u0131n"
+        },
+        "uk": {
+          "summary": "\u041e\u0442\u0440\u0438\u043c\u0443\u0439 \u043f\u043e\u0434\u0440\u043e\u0431\u0438\u0446\u0456 \u043f\u0440\u043e \u043f\u043e\u0433\u043e\u0434\u0443 \u0442\u0430 \u043f\u0440\u043e\u0433\u043d\u043e\u0437 \u043f\u043e\u0433\u043e\u0434\u0438"
+        },
+        "vi": {
+          "summary": "L\u1ea5y th\u00f4ng tin v\u00e0 d\u1ef1 b\u00e1o th\u1eddi ti\u1ebft"
+        },
+        "zh-CN": {
+          "summary": "\u83b7\u53d6\u5929\u6c14\u4fe1\u606f\u548c\u9884\u62a5"
+        }
+      }
+    }
+  ],
+  "packages": {
+    "app.organicmaps": [
+      {
+        "added": 1651517829000,
+        "apkName": "OrganicMaps.apk",
+        "features": [
+          "android.hardware.touchscreen"
+        ],
+        "hash": "5a045f94d9b949a9c3caf8614bcf0c75da73334294c3095eeb2c1a3bd75225ff",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86_64"
+        ],
+        "packageName": "app.organicmaps",
+        "sig": "472167dd9f46ae80fec5f3a3e8f47a81",
+        "signer": "e216fc386c327ec88d056026f1dea27be2bc3f9d7ee956e4361c4b64ec459fe9",
+        "size": 58312965,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.BATTERY_STATS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ]
+        ],
+        "versionCode": 22042702,
+        "versionName": "2022.04.27-2-FDroid"
+      }
+    ],
+    "at.bitfire.davdroid": [
+      {
+        "added": 1651517806000,
+        "apkName": "DAVx5.apk",
+        "hash": "c51515d057cd777599bd0fd0dfceb8253cd392c5f64a9f0dee3632b08b071cd2",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "at.bitfire.davdroid",
+        "sig": "03542175324d067b4c36582242f8aecc",
+        "signer": "8b48e676a6864967791783c1d8d0fc0dd6d2ce33e1fb36787793ecd086d44707",
+        "size": 11205884,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            22
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            22
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            22
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.WRITE_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_CALENDAR",
+            null
+          ],
+          [
+            "org.dmfs.permission.READ_TASKS",
+            null
+          ],
+          [
+            "org.dmfs.permission.WRITE_TASKS",
+            null
+          ],
+          [
+            "org.tasks.permission.READ_TASKS",
+            null
+          ],
+          [
+            "org.tasks.permission.WRITE_TASKS",
+            null
+          ],
+          [
+            "at.techbee.jtx.permission.READ",
+            null
+          ],
+          [
+            "at.techbee.jtx.permission.WRITE",
+            null
+          ]
+        ],
+        "uses-permission-sdk-23": [
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            null
+          ]
+        ],
+        "versionCode": 402000009,
+        "versionName": "4.2.0.3-ose"
+      }
+    ],
+    "com.artifex.mupdf.viewer.app": [
+      {
+        "added": 1651517812000,
+        "apkName": "MuPDFviewer.apk",
+        "hash": "c960a7ceab69bf61a4daa478457183445f7ee2b8477959716cb9307a3c1fb9be",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.artifex.mupdf.viewer.app",
+        "sig": "5f189df9c7482a659154c71fa1c0a45f",
+        "signer": "f7de6763f66a3c6e7b0c8b78e528cb1c1f5dd3b3b0e2859e36e49988d7fadcce",
+        "size": 11828246,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 100,
+        "versionName": "1.19.0"
+      }
+    ],
+    "com.aurora.store": [
+      {
+        "added": 1651517796000,
+        "apkName": "AuroraStore.apk",
+        "hash": "f9469044d639e4246a8636bce15f8141d9c441b4d24109e83a46a9bc62f7784f",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "packageName": "com.aurora.store",
+        "sig": "6b9ac7fa32e48b1b97796cc2f0ffd1cb",
+        "signer": "5c83c7672b929955dc0a1db89a5e6ae4389e2eae7ec939956041694e5815f532",
+        "size": 6214175,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ]
+        ],
+        "versionCode": 41,
+        "versionName": "4.1.1"
+      }
+    ],
+    "com.duckduckgo.mobile.android": [
+      {
+        "added": 1651517808000,
+        "apkName": "DuckDuckGoPrivacyBrowser.apk",
+        "hash": "8ab14b9349b78a753293823dd113bb1b7a7eb7748d8e45add42e21764d1ec7e6",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.duckduckgo.mobile.android",
+        "sig": "e564ffbbc910f359b0eca66be3cc4d52",
+        "signer": "f0707d021c0bf3e6f8dcc11ba3f5700425d597dca301a31e210556934ebb1b0a",
+        "size": 20754674,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 51210000,
+        "versionName": "5.121.0"
+      }
+    ],
+    "com.fsck.k9": [
+      {
+        "added": 1651517811000,
+        "apkName": "K-9Mail.apk",
+        "hash": "9068cc21a7b7270cee510f69d8050a294ef022b28767f309bf53c72833f2e2c5",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.fsck.k9",
+        "sig": "4cc8dc4af011320a78e2cae3b5a1fc31",
+        "signer": "c430665e3662253b2078dcda350c2c6ce44d915a3d8a147b63ced619bb9e8576",
+        "size": 7780537,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.SCHEDULE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ]
+        ],
+        "versionCode": 30000,
+        "versionName": "6.000"
+      }
+    ],
+    "com.jarsilio.android.scrambledeggsif": [
+      {
+        "added": 1651517836000,
+        "apkName": "ScrambledExif.apk",
+        "hash": "3c60bb2903a28349c43b908ef392a553cd829f3436fa51fa13fd403e1948dad2",
+        "hashType": "sha256",
+        "minSdkVersion": 15,
+        "packageName": "com.jarsilio.android.scrambledeggsif",
+        "sig": "e6590e61cbe069a1d900172fa99a1707",
+        "signer": "3cdf1622c37d212be586b22928f28ccadbd7cb954f1005fce13e81850beb1d73",
+        "size": 4735260,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 70,
+        "versionName": "1.7.7"
+      }
+    ],
+    "com.nextcloud.client": [
+      {
+        "added": 1651517816000,
+        "apkName": "Nextcloud.apk",
+        "hash": "3b80210b61c9c74941e927bca65c5b87ddce111b05cbb8f7509627a544289c80",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.nextcloud.client",
+        "sig": "0f8ca80a9abcc3452f65222ed09819a9",
+        "signer": "5709576f9d6c6a7687dd5d56b269d1fa5e379702b91bc83f39fd7b7c597c1b83",
+        "size": 28665411,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.WRITE_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            29
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ]
+        ],
+        "versionCode": 30200052,
+        "versionName": "3.20.0 RC2"
+      }
+    ],
+    "org.briarproject.briar.android": [
+      {
+        "added": 1651517798000,
+        "apkName": "Briar.apk",
+        "hash": "414e2d27995aa9c8ff119b77d7f14180077aee07ad66aa258decaa6c45d1b037",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "org.briarproject.briar.android",
+        "sig": "c47c736234483df29c95f62bc7bf0333",
+        "signer": "501ddf14a6ecf904fb20285c56a565cb987a867f91572ee33c2d43771cca4e37",
+        "size": 32064500,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            18
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            18
+          ]
+        ],
+        "uses-permission-sdk-23": [
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 10406,
+        "versionName": "1.4.6"
+      }
+    ],
+    "org.calyxinstitute.vpn": [
+      {
+        "added": 1651517803000,
+        "apkName": "CalyxVPN.apk",
+        "hash": "fae52b9f214f8dbe6d4858254b58a3b8d80a9ede0ee2b4d58422d4f976592230",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "org.calyxinstitute.vpn",
+        "sig": "be23b05d2c9ba3c652d579c1fbd6bf72",
+        "signer": "236f6827a5bee2b1b7e5215b1c7722e67280ffa2a88722b0ee64614d38737276",
+        "size": 62105979,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            18
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            18
+          ]
+        ],
+        "versionCode": 160000,
+        "versionName": "1.1.2"
+      }
+    ],
+    "org.dmfs.tasks": [
+      {
+        "added": 1651517848000,
+        "apkName": "Tasks.apk",
+        "hash": "7f3a1528142c8a8a0ab1ecf6b83f0620eb31cd8daa94b299149c21982e3c2f14",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "org.dmfs.tasks",
+        "sig": "fa93bb60dd4605fa49196de3c06ba7e7",
+        "signer": "056b298fcfe8c3804b448653e8558bb473af42ceea0d9c31e94ab203f0d725e2",
+        "size": 3685910,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "org.dmfs.permission.READ_TASKS",
+            null
+          ],
+          [
+            "org.dmfs.permission.WRITE_TASKS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            25
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "com.android.alarm.permission.SET_ALARM",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ]
+        ],
+        "versionCode": 82200,
+        "versionName": "1.4.2"
+      }
+    ],
+    "org.openobservatory.ooniprobe": [
+      {
+        "added": 1651517822000,
+        "apkName": "OONIProbe.apk",
+        "hash": "af1391939645f2b4e41c53ad76c6c4b77095be77a746c5a06ea05bd754f2b485",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "org.openobservatory.ooniprobe",
+        "sig": "a1d02df38f28bbe3af69161786e1d39b",
+        "signer": "ceb39f9f7950a5fe84dc917ad3433d146355c861f7f3294ce82d55fb8cb0c0e6",
+        "size": 84412660,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "org.openobservatory.ooniprobe.permission.C2D_MESSAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 89,
+        "versionName": "3.6.1"
+      }
+    ],
+    "org.secuso.privacyfriendlyweather": [
+      {
+        "added": 1651517856000,
+        "apkName": "Weather.apk",
+        "hash": "d639a33e1d10d91720eb523ef811204e7bff0ae48575f6b0bbe8ea0a64b30159",
+        "hashType": "sha256",
+        "minSdkVersion": 17,
+        "packageName": "org.secuso.privacyfriendlyweather",
+        "sig": "10b7b827ba94eb45da3218e3456cdd7a",
+        "signer": "9f518b7f34ad2a9345f9d16020eb0cfb9ca5f0e5167a1a33b7c51133fd2b2cbf",
+        "size": 13789616,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 15,
+        "versionName": "3.0.3"
+      }
+    ],
+    "org.thoughtcrime.securesms": [
+      {
+        "added": 1651517847000,
+        "apkName": "Signal.apk",
+        "hash": "0796909c5d26c33f3642c2f6a3a36a4348b606e6f20188f2c1dd1299c6ff9a61",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "org.thoughtcrime.securesms",
+        "sig": "4685187b2fceb9e4d3946ae7fffb5fe6",
+        "signer": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26",
+        "size": 79902324,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "org.thoughtcrime.securesms.ACCESS_SECRETS",
+            null
+          ],
+          [
+            "android.permission.READ_PROFILE",
+            null
+          ],
+          [
+            "android.permission.WRITE_PROFILE",
+            null
+          ],
+          [
+            "android.permission.BROADCAST_WAP_PUSH",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.WRITE_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NOTIFICATION_POLICY",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_SMS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_MMS",
+            null
+          ],
+          [
+            "android.permission.READ_SMS",
+            null
+          ],
+          [
+            "android.permission.SEND_SMS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SMS",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_NUMBERS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            28
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_CALL_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BROADCAST_STICKY",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.DISABLE_KEYGUARD",
+            null
+          ],
+          [
+            "android.permission.RAISED_THREAD_PRIORITY",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            null
+          ],
+          [
+            "android.permission.MANAGE_OWN_CALLS",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.READ",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.WRITE",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            null
+          ],
+          [
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            null
+          ],
+          [
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            null
+          ],
+          [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            null
+          ],
+          [
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_APP_BADGE",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            null
+          ]
+        ],
+        "versionCode": 104400,
+        "versionName": "5.36.3"
+      }
+    ],
+    "org.torproject.android": [
+      {
+        "added": 1651517824000,
+        "apkName": "Orbot.apk",
+        "hash": "284091758461422d0f14ab3476455ca563ad70fb662685bd3e4234fd6011c737",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "org.torproject.android",
+        "sig": "8bd7e51b479aeba908ff46ada3305a29",
+        "signer": "a454b87a1847a89ed7f5e70fba6bba96f3ef29c26e0981204fe347bf231dfd5b",
+        "size": 46668890,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            18
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            18
+          ]
+        ],
+        "versionCode": 1660300400,
+        "versionName": "16.6.0-RC-4-tor.0.4.6.9"
+      }
+    ],
+    "org.torproject.torbrowser": [
+      {
+        "added": 1651517854000,
+        "apkName": "TorBrowser.apk",
+        "hash": "b28ba1b5a383a3c1e74f01d80169d45fa5e51a3b8465cf3326952181fc4dfa57",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "org.torproject.torbrowser",
+        "sig": "31e36334f34e126a0e0d1efd29b84fb2",
+        "signer": "20061f045e737c67375c17794cfedb436a03cec6bacb7cb9f96642205ca2cec8",
+        "size": 89365449,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            28
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            26
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ]
+        ],
+        "uses-permission-sdk-23": [
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ]
+        ],
+        "versionCode": 2015884043,
+        "versionName": "11.0.8 (96.3.0-Release)"
+      }
+    ],
+    "se.leap.riseupvpn": [
+      {
+        "added": 1651517834000,
+        "apkName": "RiseupVPN.apk",
+        "hash": "b39ba1fc7d7823da3a9142250c98a8d65170d662e51dd0fe8f21ccbe189ae251",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "se.leap.riseupvpn",
+        "sig": "93382ad36b0a32133bb7790999ec1107",
+        "signer": "cd592617b27a65cd44e24fb7b8bc5d13d140fc790c37339eef4abb4518dd3ac2",
+        "size": 62482740,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            18
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            18
+          ]
+        ],
+        "versionCode": 160000,
+        "versionName": "1.1.2"
+      }
+    ]
+  }
+}
